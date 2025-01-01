@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-01 21:33:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-01-01 19:01:27 +0000"
@@ -473,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-01-01 21:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-01 19:47:36 +0000"
@@ -491,6 +503,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-01-01 21:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-01-01 19:01:27 +0000"
@@ -500,6 +518,12 @@
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-01-01 18:56:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2025-01-01 21:33:19 +0000"
     },
     "done": true
   },
@@ -891,6 +915,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2025-01-01 21:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-01 18:30:39 +0000"
@@ -1011,6 +1041,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2025-01-01 21:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-01 18:46:15 +0000"
@@ -1050,6 +1086,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-01-01 18:56:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-01-01 21:33:19 +0000"
     },
     "done": true
   },
@@ -1224,6 +1266,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-01-01 21:33:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-01-01 21:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-01-01 18:35:39 +0000"
@@ -1263,6 +1317,12 @@
   "ae2:recipes/misc/decorative/quartz_glass": {
     "criteria": {
       "has_quartz_dust": "2025-01-01 20:32:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-01-01 21:33:19 +0000"
     },
     "done": true
   },
@@ -1722,9 +1782,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-01-01 21:33:19 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-01 20:17:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2025-01-01 21:33:19 +0000"
     },
     "done": true
   },
@@ -1755,6 +1827,12 @@
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-01 18:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-01-01 21:33:19 +0000"
     },
     "done": true
   },
@@ -1965,6 +2043,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-01 18:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-01-01 21:33:19 +0000"
     },
     "done": true
   },
@@ -2198,6 +2282,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-01-01 21:33:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-01 18:56:25 +0000"
@@ -2304,6 +2394,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-01-01 19:47:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2025-01-01 21:33:19 +0000"
     },
     "done": true
   },
@@ -2448,6 +2544,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-01-01 19:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-01-01 21:33:19 +0000"
     },
     "done": true
   },
