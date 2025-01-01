@@ -712,3 +712,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [01Jan2025 19:40:11.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Sneak 100]
 [01Jan2025 19:45:54.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Cover Me with Diamonds]
 [01Jan2025 19:46:15.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2119ms or 42 ticks behind
+[01Jan2025 19:47:27.920] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[01Jan2025 19:47:39.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Ice Bucket Challenge]
+[01Jan2025 19:47:45.783] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2875ms or 57 ticks behind
+[01Jan2025 19:48:03.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2377ms or 47 ticks behind
+[01Jan2025 19:56:30.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Sculk Cymbal]
+[01Jan2025 20:11:16.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Sneak 100]
+[01Jan2025 20:13:27.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Take Aim]
+[01Jan2025 20:14:47.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was shot by Skeleton
+[01Jan2025 20:14:53.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2221ms or 44 ticks behind
+[01Jan2025 20:27:42.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bemjaja0 lost connection: Timed out
+[01Jan2025 20:27:42.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 left the game
