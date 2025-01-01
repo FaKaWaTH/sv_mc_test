@@ -15,10 +15,10 @@
 			#[in Stress Units]
 			#Configure the individual stress impact of mechanical blocks. Note that this cost is doubled for every speed increase it receives.
 			[kinetics.stressValues.v2.impact]
+				mechanical_electrolyzer = 2000.0
 				legacy_mechanical_electrolyzer = 10000.0
 				air_liquefier = 500.0
 				catalyst_carrier = 8.0
-				mechanical_electrolyzer = 2000.0
 
 			#.
 			#[in Stress Units]
