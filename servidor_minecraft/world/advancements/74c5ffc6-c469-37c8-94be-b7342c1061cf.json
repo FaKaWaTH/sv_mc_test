@@ -2125,9 +2125,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_pickaxe": {
     "criteria": {
       "has_certus_quartz": "2025-01-01 20:32:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
     },
     "done": true
   },
@@ -2155,6 +2173,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-01 21:25:42 +0000"
@@ -2179,9 +2203,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-01 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
     },
     "done": true
   },
@@ -2215,9 +2251,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/certus_quartz_sword": {
     "criteria": {
       "has_certus_quartz": "2025-01-01 20:32:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_pillar_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
     },
     "done": true
   },
@@ -2233,6 +2287,18 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
     "criteria": {
       "has_sky_stone_block": "2025-01-01 20:30:57 +0000"
@@ -2242,6 +2308,12 @@
   "ae2:recipes/misc/network/parts/quartz_fiber_part": {
     "criteria": {
       "has_dusts/quartz": "2025-01-01 20:32:20 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
     },
     "done": true
   },
@@ -2257,6 +2329,12 @@
       "silicon": "2025-01-01 20:32:31 +0000",
       "engineering": "2025-01-01 20:32:31 +0000",
       "logic": "2025-01-01 20:32:31 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
     },
     "done": true
   },
@@ -2314,6 +2392,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/energy_energy_cell": {
     "criteria": {
       "has_crystals/certus": "2025-01-01 20:32:19 +0000"
@@ -2356,15 +2440,33 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-01-01 21:25:42 +0000"
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-01-01 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
     },
     "done": true
   },
@@ -2440,6 +2542,12 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-01-01 21:20:10 +0000"
@@ -2455,6 +2563,12 @@
   "ae2:recipes/misc/misc/chests_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-01-01 20:30:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-01-01 21:38:18 +0000"
     },
     "done": true
   },
