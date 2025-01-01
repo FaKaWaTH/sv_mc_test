@@ -690,3 +690,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [01Jan2025 18:51:28.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Sweet Dreams]
 [01Jan2025 18:53:27.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH burned to death
 [01Jan2025 18:54:40.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> -142 -7 -90
+[01Jan2025 18:58:17.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Diamonds!]
+[01Jan2025 18:58:27.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Suit Up]
+[01Jan2025 18:59:55.586] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bemjaja0 lost connection: Timed out
+[01Jan2025 18:59:55.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 left the game
+[01Jan2025 18:59:55.682] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jan2025 19:01:12.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [A Seedy Place]
+[01Jan2025 19:02:54.790] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bemjaja0[/[::1]:57512] logged in with entity id 9568 at (-151.86365603772254, -19.0, -68.69999998807907)
+[01Jan2025 19:02:54.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 joined the game
+[01Jan2025 19:03:23.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [The Parrots and the Bats]
+[01Jan2025 19:04:41.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Chest Slayer]
+[01Jan2025 19:04:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Amateur Archaeologist]
