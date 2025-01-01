@@ -6052,3 +6052,29 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [01Jan2025 18:35:46.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Stone Age]
 [01Jan2025 18:35:49.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Stone Age]
 [01Jan2025 18:36:12.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Getting an Upgrade]
+[01Jan2025 18:36:35.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Getting an Upgrade]
+[01Jan2025 18:37:47.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [The Parrots and the Bats]
+[01Jan2025 18:38:45.607] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 18:38:45.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 18:39:03.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[01Jan2025 18:39:12.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FaKaWaTH: Gamerule playersSleepingPercentage is now set to: 1]
+[01Jan2025 18:39:30.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 was slain by Iron Golem
+[01Jan2025 18:40:25.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Sweet Dreams]
+[01Jan2025 18:41:18.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Acquire Hardware]
+[01Jan2025 18:42:35.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Monster Hunter]
+[01Jan2025 18:42:57.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Isn't It Iron Pick]
+[01Jan2025 18:43:45.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 18:43:45.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 18:44:07.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Monster Hunter]
+[01Jan2025 18:47:47.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Not Today, Thank You]
+[01Jan2025 18:48:37.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Isn't It Iron Pick]
+[01Jan2025 18:48:45.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 18:48:45.533] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 18:49:14.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Chest Slayer]
+[01Jan2025 18:49:15.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Amateur Archaeologist]
+[01Jan2025 18:50:19.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was shot by Skeleton
+[01Jan2025 18:51:28.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Sweet Dreams]
+[01Jan2025 18:53:27.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH burned to death
+[01Jan2025 18:53:45.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 18:53:45.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 18:54:40.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> -142 -7 -90
