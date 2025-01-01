@@ -705,3 +705,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [01Jan2025 19:15:24.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Diamonds!]
 [01Jan2025 19:16:11.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bemjaja0 lost connection: Timed out
 [01Jan2025 19:16:11.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 left the game
+[01Jan2025 19:35:50.947] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bemjaja0[/[::1]:33168] logged in with entity id 17032 at (-112.69999998807907, 103.5625, 12.300000011920929)
+[01Jan2025 19:35:50.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 joined the game
