@@ -728,3 +728,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [01Jan2025 20:32:23.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Unknown Technology]
 [01Jan2025 20:33:45.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Unknown Technology]
 [01Jan2025 20:34:56.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-296, y=99, z=131} BlockPos{x=-296, y=99, z=132}
+[01Jan2025 20:48:56.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/190, l='ServerLevel[world]', x=-120.50, y=104.00, z=32.60] died, message: 'Nitwit was slain by Zombie'
