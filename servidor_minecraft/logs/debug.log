@@ -6258,3 +6258,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [01Jan2025 19:03:45.529] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 19:04:41.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Chest Slayer]
 [01Jan2025 19:04:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Amateur Archaeologist]
+[01Jan2025 19:08:45.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:08:45.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 19:09:16.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [A Seedy Place]
+[01Jan2025 19:13:45.544] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 19:13:45.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 19:15:24.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Diamonds!]
+[01Jan2025 19:16:11.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bemjaja0 lost connection: Timed out
+[01Jan2025 19:16:11.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 left the game

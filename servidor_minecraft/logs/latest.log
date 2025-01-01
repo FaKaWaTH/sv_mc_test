@@ -701,3 +701,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [01Jan2025 19:03:23.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [The Parrots and the Bats]
 [01Jan2025 19:04:41.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Chest Slayer]
 [01Jan2025 19:04:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Amateur Archaeologist]
+[01Jan2025 19:09:16.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [A Seedy Place]
+[01Jan2025 19:15:24.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Diamonds!]
+[01Jan2025 19:16:11.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bemjaja0 lost connection: Timed out
+[01Jan2025 19:16:11.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 left the game
