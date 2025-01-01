@@ -729,3 +729,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [01Jan2025 20:33:45.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Unknown Technology]
 [01Jan2025 20:34:56.949] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-296, y=99, z=131} BlockPos{x=-296, y=99, z=132}
 [01Jan2025 20:48:56.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/190, l='ServerLevel[world]', x=-120.50, y=104.00, z=32.60] died, message: 'Nitwit was slain by Zombie'
+[01Jan2025 20:59:41.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-103, y=103, z=15} BlockPos{x=-104, y=103, z=15}
+[01Jan2025 20:59:41.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-103, y=103, z=15} BlockPos{x=-104, y=103, z=15}
+[01Jan2025 21:04:35.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-113, y=89, z=-9} BlockPos{x=-118, y=87, z=-7}
+[01Jan2025 21:08:47.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> toy comiendo
+[01Jan2025 21:14:36.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=57, z=-9} BlockPos{x=-119, y=57, z=-9}
+[01Jan2025 21:14:36.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=57, z=-10} BlockPos{x=-119, y=57, z=-9}
