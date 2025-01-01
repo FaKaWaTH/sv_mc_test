@@ -6674,3 +6674,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [01Jan2025 21:13:59.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Jan2025 21:14:36.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=57, z=-9} BlockPos{x=-119, y=57, z=-9}
 [01Jan2025 21:14:36.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=57, z=-10} BlockPos{x=-119, y=57, z=-9}
+[01Jan2025 21:18:59.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:18:59.071] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 21:23:59.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 21:23:59.058] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

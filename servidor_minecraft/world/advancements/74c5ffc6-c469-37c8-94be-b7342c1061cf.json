@@ -763,6 +763,7 @@
       "minecraft:spider": "2025-01-01 19:39:01 +0000",
       "minecraft:creeper": "2025-01-01 18:54:40 +0000",
       "minecraft:witch": "2025-01-01 20:36:10 +0000",
+      "minecraft:silverfish": "2025-01-01 21:14:31 +0000",
       "minecraft:zombie": "2025-01-01 18:44:07 +0000",
       "minecraft:zombie_villager": "2025-01-01 19:59:17 +0000"
     },
@@ -2142,6 +2143,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-01 21:20:10 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-01-01 20:30:57 +0000"
@@ -2163,6 +2170,12 @@
   "ae2:recipes/misc/tools/certus_quartz_sword": {
     "criteria": {
       "has_certus_quartz": "2025-01-01 20:32:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-01-01 21:20:10 +0000"
     },
     "done": true
   },
@@ -2256,6 +2269,12 @@
   "ae2:recipes/misc/tools/certus_quartz_hoe": {
     "criteria": {
       "has_certus_quartz": "2025-01-01 20:32:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+    "criteria": {
+      "has_item": "2025-01-01 21:20:10 +0000"
     },
     "done": true
   },
