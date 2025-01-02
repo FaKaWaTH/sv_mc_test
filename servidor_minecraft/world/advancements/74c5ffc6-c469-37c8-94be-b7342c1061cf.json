@@ -20,8 +20,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-01-01 20:07:19 +0000",
+      "minecraft:beach": "2025-01-02 04:13:07 +0000",
       "minecraft:river": "2025-01-01 20:09:08 +0000",
       "minecraft:dripstone_caves": "2025-01-01 20:10:27 +0000",
+      "minecraft:cold_ocean": "2025-01-02 04:19:39 +0000",
       "minecraft:forest": "2025-01-01 18:29:09 +0000",
       "minecraft:lush_caves": "2025-01-01 20:09:09 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-01 20:09:17 +0000",
@@ -2576,57 +2578,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_leather": "2025-01-02 01:27:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_leggings": {
-    "criteria": {
-      "has_leather": "2025-01-02 01:27:03 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+      "has_spider_eye": "2025-01-02 00:02:25 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
-    "criteria": {
-      "has_potato": "2025-01-02 00:35:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
-    "criteria": {
-      "has_item": "2025-01-02 01:23:38 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_whistle": {
-    "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
     },
     "done": true
   },
@@ -2642,39 +2602,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/controller_rail": {
-    "criteria": {
-      "has_item": "2025-01-02 01:27:32 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_backtank": {
-    "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
     },
     "done": true
   },
@@ -2684,123 +2614,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-01-02 03:18:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_the_recipe": "2025-01-02 00:18:12 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/copper_nugget": {
-    "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/baked_potato": {
-    "criteria": {
-      "has_potato": "2025-01-02 00:35:39 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed": "2025-01-02 02:02:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-01-02 03:18:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-01-02 03:18:05 +0000"
-    },
-    "done": true
-  },
-  "create:copper": {
-    "criteria": {
-      "0": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-01-02 00:36:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-02 00:22:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
-    "criteria": {
-      "has_pickup_upgrade": "2025-01-02 03:51:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-01-02 01:27:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-01-02 01:26:01 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
     },
     "done": true
   },
@@ -2822,213 +2644,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-01-02 00:35:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-01-02 03:52:29 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/steam_engine": {
-    "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-02 00:22:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-02 00:22:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-01-02 00:18:12 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
-    "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wood": {
-    "criteria": {
-      "has_log": "2025-01-02 01:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-02 00:22:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper": {
-    "criteria": {
-      "has_copper_block": "2025-01-02 03:52:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-01-02 03:22:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
-    "criteria": {
-      "has_ingots_copper": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-01-02 01:27:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-02 00:22:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
-    "criteria": {
-      "has_advanced_pickup_upgrade": "2025-01-02 03:51:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-01-02 03:52:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
-    "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2025-01-02 03:18:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-01-02 03:21:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-01-02 03:48:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-02 03:26:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-02 00:22:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-02 00:22:05 +0000"
     },
     "done": true
   },
@@ -3044,57 +2668,147 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
-    "criteria": {
-      "has_copper_block": "2025-01-02 03:52:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 00:18:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_slab": {
+  "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
-      "has_planks": "2025-01-02 03:18:05 +0000"
+      "has_glass": "2025-01-02 00:18:12 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/spruce_window": {
+  "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
-      "has_ingredient": "2025-01-02 03:18:05 +0000"
+      "has_glass": "2025-01-02 00:18:12 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
-      "has_slime_ball": "2025-01-02 02:27:01 +0000"
+      "has_glass": "2025-01-02 00:18:12 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
+      "has_glass_colorless": "2025-01-02 00:18:12 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+      "has_glass": "2025-01-02 00:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 00:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-01-02 00:18:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-01-02 00:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-02 00:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-02 00:22:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-02 00:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-02 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-02 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-02 00:35:39 +0000"
     },
     "done": true
   },
@@ -3104,15 +2818,165 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-02 00:35:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-02 00:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-02 00:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-02 00:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-02 00:36:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-02 00:46:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed": "2025-01-02 00:48:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-01-02 00:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-01-02 00:48:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-01-02 00:48:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-01-02 01:23:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-01-02 01:23:38 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+      "has_ingots_zinc": "2025-01-02 01:23:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-01-02 01:23:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-01-02 01:23:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-01-02 01:23:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_whistle": {
+    "criteria": {
+      "has_item": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_backtank": {
+    "criteria": {
+      "has_item": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_nugget": {
+    "criteria": {
+      "has_item": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/steam_engine": {
+    "criteria": {
+      "has_item": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_shingles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe": {
+    "criteria": {
+      "has_item": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
+    "criteria": {
+      "has_ingots_copper": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
+    "criteria": {
+      "has_item": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_pipe_vertical": {
+    "criteria": {
+      "has_item": "2025-01-02 01:24:18 +0000"
     },
     "done": true
   },
@@ -3134,111 +2998,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_button": {
-    "criteria": {
-      "has_planks": "2025-01-02 03:18:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/detector_rail": {
-    "criteria": {
-      "has_rail": "2025-01-02 03:21:52 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed": "2025-01-02 00:48:14 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_ladder_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot": {
-    "criteria": {
-      "has_copper_block": "2025-01-02 03:52:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-01-02 03:22:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-01-02 03:18:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-01-02 01:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-01-02 00:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-01-02 00:22:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-01-02 01:27:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-01-02 00:36:41 +0000"
     },
     "done": true
   },
@@ -3248,99 +3010,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glass_bottle": {
-    "criteria": {
-      "has_glass": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/appliances/copper_diving_boots": {
     "criteria": {
       "has_item": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-01-02 00:22:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
-    "criteria": {
-      "has_ingots_zinc": "2025-01-02 01:23:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-01-02 00:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-01-02 03:18:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-01-02 02:27:01 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-01-02 00:02:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
-    "criteria": {
-      "kill_mob_near_sculk_catalyst": "2025-01-02 00:35:45 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
-    "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/fluid_tank": {
-    "criteria": {
-      "has_item": "2025-01-02 00:35:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
-    "criteria": {
-      "has_item": "2025-01-02 01:23:38 +0000"
     },
     "done": true
   },
@@ -3350,45 +3022,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/furnace_minecart": {
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
     "criteria": {
-      "has_minecart": "2025-01-02 03:22:09 +0000"
+      "has_item": "2025-01-02 01:24:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/hopper_minecart": {
+  "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
-      "has_minecart": "2025-01-02 03:22:09 +0000"
+      "has_item": "2025-01-02 01:24:18 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+      "has_item": "2025-01-02 01:24:18 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
     "criteria": {
-      "has_the_recipe": "2025-01-02 03:51:29 +0000"
+      "has_item": "2025-01-02 01:24:18 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/grizzly_bear": {
+  "ae2:main/root": {
     "criteria": {
-      "killed": "2025-01-02 01:48:04 +0000"
+      "copper": "2025-01-02 01:24:18 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
-      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+      "has_ingots_copper": "2025-01-02 01:24:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+  "minecraft:recipes/decorations/composter": {
     "criteria": {
-      "has_salmon": "2025-01-02 00:36:41 +0000"
+      "has_wood_slab": "2025-01-02 01:26:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:27:03 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-02 01:27:03 +0000"
     },
     "done": true
   },
@@ -3398,39 +3100,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/baked_potato_from_smoking": {
-    "criteria": {
-      "has_potato": "2025-01-02 00:35:39 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-01-02 01:27:03 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+  "minecraft:recipes/combat/leather_boots": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+      "has_leather": "2025-01-02 01:27:03 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle": {
+  "create:recipes/misc/crafting/kinetics/controller_rail": {
     "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
+      "has_item": "2025-01-02 01:27:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-02 01:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-02 01:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-02 01:43:34 +0000"
     },
     "done": true
   },
@@ -3440,15 +3142,219 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+  "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
-      "has_ingots_zinc": "2025-01-02 01:23:38 +0000"
+      "has_obsidian": "2025-01-02 01:46:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
-      "has_iron_block": "2025-01-02 03:53:37 +0000"
+      "killed": "2025-01-02 01:48:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_block_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_bricks_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
+    "criteria": {
+      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed": "2025-01-02 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 02:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 02:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-02 02:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-01-02 03:18:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-02 03:18:00 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-01-02 03:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-01-02 03:18:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-02 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:18:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-02 03:18:05 +0000"
     },
     "done": true
   },
@@ -3470,63 +3376,279 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_glass": "2025-01-02 00:18:12 +0000"
+      "has_planks": "2025-01-02 03:18:05 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/hose_pulley": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
+      "has_rail": "2025-01-02 03:21:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dripstone_block": {
+  "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
-      "has_pointed_dripstone": "2025-01-02 01:51:58 +0000"
+      "has_rail": "2025-01-02 03:21:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_glass": "2025-01-02 00:18:12 +0000"
+      "has_rail": "2025-01-02 03:21:52 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/layered_dripstone_from_stone_types_dripstone_stonecutting": {
+  "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+      "has_minecart": "2025-01-02 03:22:09 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/smart_fluid_pipe": {
+  "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
+      "has_minecart": "2025-01-02 03:22:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "minecraft:recipes/transportation/furnace_minecart": {
     "criteria": {
-      "has_cornflower": "2025-01-02 00:21:16 +0000"
+      "has_minecart": "2025-01-02 03:22:09 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/slime_block": {
+  "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
-      "has_slime_ball": "2025-01-02 02:27:01 +0000"
+      "has_minecart": "2025-01-02 03:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-01-02 03:22:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-02 03:26:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-01-02 03:48:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2025-01-02 03:51:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-02 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-02 03:51:30 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-01-02 03:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-02 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2025-01-02 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-02 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2025-01-02 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2025-01-02 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2025-01-02 03:52:29 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/glassblower_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1_from_starter": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-02 03:53:05 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/dripstone_pillar_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
     },
     "done": true
   },
@@ -3542,12 +3664,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_boots": {
-    "criteria": {
-      "has_leather": "2025-01-02 01:27:03 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 03:53:05 +0000"
@@ -3557,60 +3673,6 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-02 03:53:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_dripstone_slab_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/copper_valve_handle_from_others": {
-    "criteria": {
-      "has_item": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/root": {
-    "criteria": {
-      "copper": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
-    "criteria": {
-      "has_copper_block": "2025-01-02 03:52:29 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
-    "criteria": {
-      "has_item": "2025-01-02 01:23:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-01-02 01:46:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-01-02 03:18:05 +0000"
     },
     "done": true
   },
@@ -3626,81 +3688,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-02 03:53:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-01-02 03:53:37 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_2": {
     "criteria": {
-      "has_item": "2025-01-02 00:35:37 +0000"
+      "has_upgrade_base": "2025-01-02 03:53:41 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
-      "has_copper_backpack": "2025-01-02 00:46:14 +0000"
+      "has_upgrade_base": "2025-01-02 03:54:26 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_dripstone_from_stone_types_dripstone_stonecutting": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
+      "has_diamond_block": "2025-01-02 03:54:39 +0000"
     },
     "done": true
   },
-  "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
+  "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_4": {
     "criteria": {
-      "has_ingots_copper": "2025-01-02 01:24:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-01-02 01:43:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_dripstone_brick_wall_from_stone_types_dripstone_stonecutting": {
-    "criteria": {
-      "has_stone_types_dripstone": "2025-01-02 01:51:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
-    "criteria": {
-      "has_glass_colorless": "2025-01-02 00:18:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/powered_rail": {
-    "criteria": {
-      "has_rail": "2025-01-02 03:21:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-01-02 00:48:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-01-02 03:22:09 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
-    "criteria": {
-      "has_pickup_upgrade": "2025-01-02 03:51:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-01-02 03:18:00 +0000"
+      "has_upgrade_base": "2025-01-02 03:54:49 +0000"
     },
     "done": true
   },
