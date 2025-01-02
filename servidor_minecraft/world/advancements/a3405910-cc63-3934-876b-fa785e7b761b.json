@@ -627,6 +627,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-02 19:07:02 +0000",
       "minecraft:spider": "2025-01-02 19:06:23 +0000",
+      "minecraft:creeper": "2025-01-02 20:15:02 +0000",
       "minecraft:enderman": "2025-01-02 20:04:31 +0000",
       "minecraft:zombie": "2025-01-02 19:37:59 +0000"
     },
@@ -1826,6 +1827,18 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-02 19:58:33 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-01-02 20:12:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-01-02 20:15:05 +0000"
     },
     "done": true
   },

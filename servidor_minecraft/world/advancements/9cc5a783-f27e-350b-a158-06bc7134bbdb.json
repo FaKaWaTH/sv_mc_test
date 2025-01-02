@@ -25,6 +25,8 @@
       "minecraft:river": "2025-01-01 20:23:36 +0000",
       "minecraft:stony_shore": "2025-01-02 19:54:18 +0000",
       "minecraft:dripstone_caves": "2025-01-01 20:04:00 +0000",
+      "minecraft:grove": "2025-01-02 20:17:55 +0000",
+      "minecraft:jagged_peaks": "2025-01-02 20:17:46 +0000",
       "minecraft:cold_ocean": "2025-01-02 19:54:29 +0000",
       "minecraft:forest": "2025-01-01 18:28:53 +0000",
       "minecraft:lush_caves": "2025-01-02 03:48:54 +0000",
@@ -34,6 +36,7 @@
       "minecraft:old_growth_birch_forest": "2025-01-01 19:46:33 +0000",
       "minecraft:deep_dark": "2025-01-01 20:11:11 +0000",
       "minecraft:meadow": "2025-01-01 18:29:44 +0000",
+      "minecraft:savanna": "2025-01-02 20:22:22 +0000",
       "minecraft:plains": "2025-01-01 18:29:25 +0000"
     },
     "done": false
