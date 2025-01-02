@@ -22,11 +22,14 @@
       "minecraft:snowy_slopes": "2025-01-01 20:03:53 +0000",
       "minecraft:taiga": "2025-01-01 18:58:24 +0000",
       "minecraft:sunflower_plains": "2025-01-02 20:25:28 +0000",
+      "minecraft:birch_forest": "2025-01-02 20:33:29 +0000",
+      "minecraft:windswept_hills": "2025-01-02 20:33:51 +0000",
       "minecraft:beach": "2025-01-02 19:55:54 +0000",
       "minecraft:river": "2025-01-01 20:23:36 +0000",
       "minecraft:stony_shore": "2025-01-02 19:54:18 +0000",
       "minecraft:dripstone_caves": "2025-01-01 20:04:00 +0000",
       "minecraft:grove": "2025-01-02 20:17:55 +0000",
+      "minecraft:swamp": "2025-01-02 20:34:22 +0000",
       "minecraft:jagged_peaks": "2025-01-02 20:17:46 +0000",
       "minecraft:cold_ocean": "2025-01-02 19:54:29 +0000",
       "minecraft:forest": "2025-01-01 18:28:53 +0000",
@@ -3315,6 +3318,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-01-02 19:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-02 20:37:03 +0000"
     },
     "done": true
   },

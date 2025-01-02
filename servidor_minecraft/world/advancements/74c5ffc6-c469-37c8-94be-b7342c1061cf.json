@@ -3854,7 +3854,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-01-02 20:31:07 +0000"
+      "minecraft:crimson_forest": "2025-01-02 20:31:07 +0000",
+      "minecraft:nether_wastes": "2025-01-02 20:34:05 +0000"
     },
     "done": false
   },
@@ -3867,6 +3868,18 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-01-02 20:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-02 20:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-02 20:35:45 +0000"
     },
     "done": true
   },
