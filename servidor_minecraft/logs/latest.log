@@ -321,3 +321,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [02Jan2025 19:31:25.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was slain by Skeleton
 [02Jan2025 19:35:17.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=103, z=34} BlockPos{x=-84, y=105, z=35}
 [02Jan2025 19:35:18.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-84, y=103, z=35} BlockPos{x=-84, y=105, z=35}
+[02Jan2025 19:47:37.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-90, y=103, z=60} BlockPos{x=-88, y=102, z=60}
