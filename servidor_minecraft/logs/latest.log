@@ -11,3 +11,10 @@
 [02Jan2025 01:15:03.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> vengo altiro
 [02Jan2025 01:15:11.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> hay unos pantalones de diamante aqui en la cassa
 [02Jan2025 01:15:15.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> sin dueño
+[02Jan2025 01:27:28.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FrugeledeTomachi[/[::1]:38390] logged in with entity id 23160 at (-5.5, 117.0, 3.5)
+[02Jan2025 01:27:28.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi joined the game
+[02Jan2025 01:27:46.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrugeledeTomachi> calmao
+[02Jan2025 01:28:13.190] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrugeledeTomachi lost connection: Timed out
+[02Jan2025 01:28:13.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi left the game
+[02Jan2025 01:28:13.253] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Jan2025 01:29:32.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH fell from a high place
