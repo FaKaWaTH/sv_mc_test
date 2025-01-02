@@ -24,7 +24,9 @@
       "minecraft:river": "2025-01-01 20:23:36 +0000",
       "minecraft:dripstone_caves": "2025-01-01 20:04:00 +0000",
       "minecraft:forest": "2025-01-01 18:28:53 +0000",
+      "minecraft:lush_caves": "2025-01-02 03:48:54 +0000",
       "minecraft:windswept_forest": "2025-01-02 02:34:15 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-01-02 03:49:00 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-01 19:46:33 +0000",
       "minecraft:deep_dark": "2025-01-01 20:11:11 +0000",
       "minecraft:meadow": "2025-01-01 18:29:44 +0000",
@@ -2622,6 +2624,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-02 03:39:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 00:11:29 +0000"
@@ -2667,6 +2675,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-02 00:11:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-02 03:39:23 +0000"
     },
     "done": true
   },
