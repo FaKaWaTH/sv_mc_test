@@ -200,3 +200,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [02Jan2025 18:16:56.683] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=-53, z=-11} BlockPos{x=32, y=-54, z=-12}
 [02Jan2025 18:16:56.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=-52, z=-11} BlockPos{x=32, y=-54, z=-12}
 [02Jan2025 18:16:56.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=-52, z=-11} BlockPos{x=32, y=-54, z=-12}
+[02Jan2025 18:20:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Bemjaja0
