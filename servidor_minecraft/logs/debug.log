@@ -5671,3 +5671,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [02Jan2025 01:49:52.501] [Worker-Main-43/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [59, 40], pos: BlockPos{x=944, y=-58, z=654}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
 [02Jan2025 01:49:52.502] [Worker-Main-43/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [59, 40], pos: BlockPos{x=944, y=-58, z=655}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
 [02Jan2025 01:49:52.502] [Worker-Main-43/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [59, 41], pos: BlockPos{x=944, y=-58, z=656}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / minecraft:large_dripstone]
+[02Jan2025 01:50:05.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6836ms or 136 ticks behind
+[02Jan2025 01:50:17.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi has made the advancement [Acquire Hardware]
+[02Jan2025 01:50:32.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12706ms or 254 ticks behind
+[02Jan2025 01:50:48.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi has made the advancement [Cover Me with Diamonds]
+[02Jan2025 01:51:29.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 01:51:29.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 01:51:45.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrugeledeTomachi> con cual se abre la mochila
+[02Jan2025 01:53:35.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi has made the advancement [Diamonds!]
+[02Jan2025 01:55:32.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[02Jan2025 01:56:05.747] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[02Jan2025 01:56:32.285] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2110ms or 42 ticks behind
+[02Jan2025 01:56:35.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 01:56:35.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 01:56:53.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6206ms or 124 ticks behind
+[02Jan2025 01:57:10.712] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
+[02Jan2025 01:57:28.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[02Jan2025 01:57:45.941] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
+[02Jan2025 01:58:03.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[02Jan2025 01:58:21.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrugeledeTomachi> KIKIKI
+[02Jan2025 01:58:30.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[02Jan2025 01:59:46.088] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2113ms or 42 ticks behind
+[02Jan2025 02:00:04.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3008ms or 60 ticks behind
