@@ -201,3 +201,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [02Jan2025 18:16:56.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=-52, z=-11} BlockPos{x=32, y=-54, z=-12}
 [02Jan2025 18:16:56.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=32, y=-52, z=-11} BlockPos{x=32, y=-54, z=-12}
 [02Jan2025 18:20:11.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Bemjaja0
+[02Jan2025 18:30:26.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FaKaWaTH[/[::1]:45040] logged in with entity id 11858 at (-111.76249998807907, 103.5625, 14.070148934992575)
+[02Jan2025 18:30:26.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH joined the game
+[02Jan2025 18:30:50.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> silla y la qla
+[02Jan2025 18:30:54.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> solo espectador
+[02Jan2025 18:31:04.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> como eso
+[02Jan2025 18:31:10.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> dice q le ta explotando el launcher
+[02Jan2025 18:31:15.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> mirate
+[02Jan2025 18:32:22.244] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [webdisplays:packetsystem,sophisticatedbackpacks:channel,citadel:main_channel,curios:main,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,alexsmobs:main_channel,furnitury:furnitury,sophisticatedcore:channel,creatingspace:main,create:main] rejected vanilla connections
+[02Jan2025 18:32:22.246] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/[0:0:0:0:0:0:0:1%0]:46256] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[02Jan2025 18:38:37.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reze[/[::1]:59678] logged in with entity id 17962 at (4.5, 109.0, -7.5)
+[02Jan2025 18:38:37.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reze joined the game
