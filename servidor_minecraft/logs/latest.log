@@ -107,3 +107,4 @@
 [02Jan2025 02:18:12.435] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrugeledeTomachi lost connection: Timed out
 [02Jan2025 02:18:12.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi left the game
 [02Jan2025 02:23:14.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Cover Me with Diamonds]
+[02Jan2025 02:50:15.243] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-117, y=-52, z=-90} BlockPos{x=-118, y=-53, z=-89}

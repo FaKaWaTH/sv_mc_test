@@ -563,6 +563,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-01-01 19:41:50 +0000",
+      "sweet_berries": "2025-01-02 02:39:46 +0000",
       "porkchop": "2025-01-01 19:08:45 +0000",
       "apple": "2025-01-01 19:39:21 +0000",
       "mutton": "2025-01-01 19:08:54 +0000",
@@ -3029,6 +3030,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-01-02 02:46:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
     "criteria": {
       "has_item": "2025-01-02 01:23:41 +0000"
@@ -3125,6 +3132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-02 02:43:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_dripstone_brick_slab_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-02 02:22:27 +0000"
@@ -3158,6 +3171,12 @@
   "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-01-02 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-01-02 02:46:21 +0000"
     },
     "done": true
   },
