@@ -1,1 +1,4 @@
 [02Jan2025 00:06:16.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Bemjaja0
+[02Jan2025 00:08:48.003] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FaKaWaTH[/[::1]:59824] logged in with entity id 3896 at (-112.69999998807907, 103.5625, 12.300000011920929)
+[02Jan2025 00:08:48.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH joined the game
+[02Jan2025 00:16:39.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=103, z=48} BlockPos{x=-115, y=101, z=49}
