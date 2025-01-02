@@ -25,6 +25,7 @@
       "minecraft:forest": "2025-01-01 18:29:09 +0000",
       "minecraft:lush_caves": "2025-01-01 20:09:09 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-01-01 20:09:17 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-02 01:42:18 +0000",
       "minecraft:deep_dark": "2025-01-01 19:39:50 +0000",
       "minecraft:meadow": "2025-01-01 18:30:40 +0000",
       "minecraft:plains": "2025-01-01 18:29:21 +0000"
@@ -3111,6 +3112,12 @@
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-01-02 01:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-02 01:43:34 +0000"
     },
     "done": true
   },
