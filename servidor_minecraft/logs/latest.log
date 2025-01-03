@@ -583,3 +583,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 03:28:51.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=96, z=12} BlockPos{x=-178, y=95, z=11}
 [03Jan2025 03:28:51.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=96, z=12} BlockPos{x=-178, y=95, z=11}
 [03Jan2025 03:28:58.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=91, z=10} BlockPos{x=-177, y=93, z=11}
+[03Jan2025 03:29:40.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reze lost connection: Timed out
+[03Jan2025 03:29:40.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reze left the game
+[03Jan2025 03:29:40.532] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Jan2025 03:29:54.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Vindicator
+[03Jan2025 03:32:36.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Vindicator
+[03Jan2025 03:32:46.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was slain by Vex
+[03Jan2025 03:32:49.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Vex
+[03Jan2025 03:33:08.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was slain by Vex
+[03Jan2025 03:33:15.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Vindicator
+[03Jan2025 03:33:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was slain by Vex
+[03Jan2025 03:33:54.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Vex
