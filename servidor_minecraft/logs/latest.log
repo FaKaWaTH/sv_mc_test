@@ -356,3 +356,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 01:19:24.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FaKaWaTH moved too quickly! -1.937993511109255,-9.53584060519043,2.649665999510347
 [03Jan2025 01:19:43.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12438ms or 248 ticks behind
 [03Jan2025 01:20:49.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2099ms or 41 ticks behind
+[03Jan2025 01:24:49.706] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[03Jan2025 01:25:16.209] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11516ms or 230 ticks behind
+[03Jan2025 01:28:13.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio tried to swim in lava
+[03Jan2025 01:28:55.993] [Server thread/INFO] [AE2:S/]: Assigning ME player id 0 to Minecraft profile 9cc5a783-f27e-350b-a158-06bc7134bbdb (FaKaWaTH)
+[03Jan2025 01:29:49.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> porque eres invisible
+[03Jan2025 01:30:00.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> pq soy bacan po
+[03Jan2025 01:30:05.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> baneo
+[03Jan2025 01:30:10.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> skksksks
+[03Jan2025 01:30:12.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [FaKaWaTH: Kicked Reze: Kicked by an operator]
+[03Jan2025 01:30:12.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Reze lost connection: Kicked by an operator
+[03Jan2025 01:30:12.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reze left the game
+[03Jan2025 01:30:18.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was shot by Piglin
+[03Jan2025 01:30:20.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reze[/[::1]:38792] logged in with entity id 83555 at (-120.30000001192093, 103.0, 34.69999998807907)
+[03Jan2025 01:30:20.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reze joined the game
+[03Jan2025 01:31:58.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> NO ROMPAN LOS CRYSTALES
+[03Jan2025 01:32:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was slain by Crimson Mosquito
+[03Jan2025 01:33:02.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reze has made the advancement [Suit Up]
+[03Jan2025 01:33:49.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was slain by Crimson Mosquito
+[03Jan2025 01:35:33.818] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[03Jan2025 01:35:52.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[03Jan2025 01:36:11.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[03Jan2025 01:36:29.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
+[03Jan2025 01:36:48.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Convergent Evolution...]
+[03Jan2025 01:37:51.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2866ms or 57 ticks behind
+[03Jan2025 01:37:59.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio has made the advancement [Those Were the Days]
+[03Jan2025 01:38:08.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[03Jan2025 01:38:58.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was doomed to fall by Piglin
+[03Jan2025 01:39:16.264] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[03Jan2025 01:42:46.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Shocking]
+[03Jan2025 01:43:24.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Unnatural]
+[03Jan2025 01:43:57.634] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
