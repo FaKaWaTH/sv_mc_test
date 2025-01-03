@@ -4827,6 +4827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/block_cutter/walls/smooth_sky_stone_wall": {
     "criteria": {
       "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
@@ -4848,6 +4854,18 @@
   "ae2:recipes/misc/network/cables/covered_black": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
     },
     "done": true
   },
@@ -4905,6 +4923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_red": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
@@ -4917,9 +4941,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_magenta": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
     },
     "done": true
   },
@@ -4941,9 +4989,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/sky_stone_small_brick_from_stonecutting": {
     "criteria": {
       "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
     },
     "done": true
   },
@@ -4980,6 +5040,12 @@
   "ae2:recipes/misc/network/cables/covered_light_blue": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
     },
     "done": true
   },
@@ -5025,6 +5091,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_yellow": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
@@ -5040,6 +5112,12 @@
   "ae2:recipes/misc/shaped/walls/smooth_sky_stone_block": {
     "criteria": {
       "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
     },
     "done": true
   },
@@ -5118,6 +5196,12 @@
   "ae2:recipes/misc/network/cables/covered_white": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-01-03 19:47:56 +0000"
     },
     "done": true
   },
