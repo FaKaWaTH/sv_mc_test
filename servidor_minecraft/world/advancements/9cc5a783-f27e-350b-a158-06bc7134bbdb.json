@@ -581,6 +581,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-01 19:41:50 +0000",
       "sweet_berries": "2025-01-02 02:39:46 +0000",
+      "cooked_beef": "2025-01-03 20:56:05 +0000",
       "porkchop": "2025-01-01 19:08:45 +0000",
       "apple": "2025-01-01 19:39:21 +0000",
       "mutton": "2025-01-01 19:08:54 +0000",
@@ -5202,6 +5203,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-01-03 19:47:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_the_recipe": "2025-01-03 20:55:21 +0000"
     },
     "done": true
   },
