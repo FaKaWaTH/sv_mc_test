@@ -289,3 +289,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 19:54:43.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FrugeledeTomachi> 5 luca
 [03Jan2025 20:02:31.890] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FaKaWaTH lost connection: Timed out
 [03Jan2025 20:02:31.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH left the game
+[03Jan2025 20:12:16.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi has made the advancement [Stone Age]
+[03Jan2025 20:22:38.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrugeledeTomachi lost connection: Timed out
+[03Jan2025 20:22:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi left the game
