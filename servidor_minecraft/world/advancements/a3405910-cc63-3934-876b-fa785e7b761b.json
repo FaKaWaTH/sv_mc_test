@@ -26,6 +26,7 @@
       "minecraft:dark_forest": "2025-01-02 19:18:07 +0000",
       "minecraft:river": "2025-01-02 19:08:22 +0000",
       "minecraft:dripstone_caves": "2025-01-02 21:52:39 +0000",
+      "minecraft:cold_ocean": "2025-01-03 00:55:22 +0000",
       "minecraft:forest": "2025-01-02 18:38:38 +0000",
       "minecraft:ocean": "2025-01-02 22:35:57 +0000",
       "minecraft:deep_dark": "2025-01-02 19:00:21 +0000",
@@ -2841,6 +2842,18 @@
   "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-01-02 22:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 00:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-03 00:54:56 +0000"
     },
     "done": true
   },
