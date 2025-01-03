@@ -622,7 +622,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-03 01:56:44 +0000",
       "minecraft:skeleton": "2025-01-01 18:50:01 +0000",
+      "minecraft:ravager": "2025-01-03 02:02:58 +0000",
+      "minecraft:vindicator": "2025-01-03 01:58:11 +0000",
       "minecraft:magma_cube": "2025-01-02 22:24:12 +0000",
       "minecraft:spider": "2025-01-01 18:45:47 +0000",
       "minecraft:creeper": "2025-01-01 19:27:16 +0000",
@@ -630,6 +633,7 @@
       "minecraft:witch": "2025-01-02 03:57:35 +0000",
       "minecraft:piglin": "2025-01-02 22:19:52 +0000",
       "minecraft:enderman": "2025-01-02 01:18:32 +0000",
+      "minecraft:vex": "2025-01-03 02:00:39 +0000",
       "minecraft:zombie": "2025-01-01 18:42:35 +0000",
       "minecraft:zombie_villager": "2025-01-01 19:26:05 +0000"
     },
@@ -3959,9 +3963,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_fixture": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-01-03 01:42:46 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_lime": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_black": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
     },
     "done": true
   },
@@ -3983,9 +4011,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_brown": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
   "ae2:main/fluix": {
     "criteria": {
       "certus": "2025-01-03 01:43:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_pink": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
     },
     "done": true
   },
@@ -4031,9 +4071,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_light_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-03 01:56:47 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/quartz_fixture_from_anchors": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-01-03 01:42:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-03 02:04:27 +0000"
     },
     "done": true
   },
@@ -4046,6 +4104,12 @@
   "ae2:recipes/misc/block_cutter/slabs/quartz_slab": {
     "criteria": {
       "has_quartz_block": "2025-01-03 01:14:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crystal_processing_growth_accelerator": {
+    "criteria": {
+      "has_glass_cable": "2025-01-03 01:55:25 +0000"
     },
     "done": true
   },
@@ -4067,9 +4131,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-03 01:14:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix": {
+    "criteria": {
+      "has_glass_cable": "2025-01-03 01:55:25 +0000"
     },
     "done": true
   },
@@ -4097,6 +4179,36 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_gray": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_fluix_clean": {
+    "criteria": {
+      "has_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_red": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/cut_quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-01-03 01:14:47 +0000"
@@ -4121,15 +4233,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_cyan": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
     "criteria": {
       "has_crystals/fluix": "2025-01-03 01:43:24 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_magenta": {
+    "criteria": {
+      "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/shaped/stairs/quartz_block": {
     "criteria": {
       "has_quartz_block": "2025-01-03 01:14:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/toggle_bus": {
+    "criteria": {
+      "has_glass_cable": "2025-01-03 01:55:25 +0000"
     },
     "done": true
   },
