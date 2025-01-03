@@ -3994,6 +3994,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-01-03 02:35:20 +0000"
@@ -4033,6 +4039,12 @@
   "ae2:recipes/misc/network/blocks/pattern_providers_interface": {
     "criteria": {
       "has_annihilation_core": "2025-01-03 02:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
     },
     "done": true
   },
@@ -4114,6 +4126,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/parts/terminals": {
     "criteria": {
       "has_logic_processor": "2025-01-03 02:19:29 +0000"
@@ -4162,6 +4180,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-01-03 02:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/parts/terminals_crafting": {
     "criteria": {
       "has_terminal": "2025-01-03 02:27:11 +0000"
@@ -4204,6 +4234,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-01-03 02:52:21 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/interfaces_interface": {
     "criteria": {
       "has_annihilation_core": "2025-01-03 02:22:46 +0000"
@@ -4216,9 +4258,27 @@
     },
     "done": true
   },
+  "ae2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2025-01-03 02:55:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/view_cell_storage": {
     "criteria": {
       "has_terminal": "2025-01-03 02:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/fluid_storage_cell_1k": {
+    "criteria": {
+      "has_cell_component_1k": "2025-01-03 02:52:21 +0000"
     },
     "done": true
   },
@@ -4324,6 +4384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2025-01-03 01:46:34 +0000"
@@ -4360,6 +4426,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_storage_cell_1k_storage": {
+    "criteria": {
+      "has_cell_component_1k": "2025-01-03 02:52:21 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_yellow": {
     "criteria": {
       "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
@@ -4375,6 +4447,12 @@
   "ae2:main/glass_cable": {
     "criteria": {
       "certus": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
     },
     "done": true
   },
@@ -4405,6 +4483,18 @@
   "ae2:recipes/misc/block_cutter/walls/quartz_wall": {
     "criteria": {
       "has_quartz_block": "2025-01-03 01:14:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/item_storage_components_cell_4k_part": {
+    "criteria": {
+      "has_cell_component_1k": "2025-01-03 02:52:21 +0000"
     },
     "done": true
   },
@@ -4441,6 +4531,18 @@
   "ae2:recipes/misc/network/blocks/spatial_io_pylon": {
     "criteria": {
       "has_crystals/fluix": "2025-01-03 01:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
     },
     "done": true
   },
@@ -4495,6 +4597,12 @@
   "ae2:recipes/misc/network/crafting/molecular_assembler": {
     "criteria": {
       "has_annihilation_core": "2025-01-03 02:22:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
     },
     "done": true
   },

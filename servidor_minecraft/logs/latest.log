@@ -526,3 +526,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 02:47:31.484] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bemjaja0 moved wrongly!
 [03Jan2025 02:47:59.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was blown up by Creeper
 [03Jan2025 02:48:04.293] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[03Jan2025 02:48:27.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[03Jan2025 02:48:50.986] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8993ms or 179 ticks behind
+[03Jan2025 02:52:50.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-294, y=-43, z=4} BlockPos{x=-295, y=-44, z=2}
+[03Jan2025 02:52:51.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-294, y=-44, z=4} BlockPos{x=-294, y=-44, z=1}
+[03Jan2025 02:53:02.254] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[03Jan2025 02:53:04.263] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[03Jan2025 02:53:23.732] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
+[03Jan2025 02:54:13.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-284, y=-44, z=0} BlockPos{x=-285, y=-44, z=1}
+[03Jan2025 02:54:26.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[03Jan2025 02:55:22.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
+[03Jan2025 02:55:39.765] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[03Jan2025 02:56:00.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-286, y=-44, z=13} BlockPos{x=-286, y=-44, z=11}
+[03Jan2025 02:56:00.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-286, y=-43, z=13} BlockPos{x=-286, y=-44, z=11}
+[03Jan2025 02:56:00.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-286, y=-43, z=12} BlockPos{x=-286, y=-44, z=11}
+[03Jan2025 02:56:00.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-285, y=-43, z=13} BlockPos{x=-286, y=-44, z=11}
+[03Jan2025 02:58:15.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-739, y=49, z=-345} BlockPos{x=-740, y=48, z=-345}
+[03Jan2025 02:59:54.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=100, z=42} BlockPos{x=-84, y=101, z=42}
+[03Jan2025 02:59:54.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-83, y=100, z=42} BlockPos{x=-84, y=101, z=42}
+[03Jan2025 03:03:07.743] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Reze[/[::1]:39504] logged in with entity id 218111 at (-120.30000001192093, 103.0, 33.8189462231762)
+[03Jan2025 03:03:07.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reze joined the game
+[03Jan2025 03:03:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> ol
+[03Jan2025 03:03:20.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> ol
