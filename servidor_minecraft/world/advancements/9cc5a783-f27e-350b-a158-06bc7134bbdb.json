@@ -4729,18 +4729,6 @@
     },
     "done": false
   },
-  "ae2:recipes/misc/network/blocks/energy_energy_acceptor_alt": {
-    "criteria": {
-      "has_cable_energy_acceptor": "2025-01-03 04:55:33 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/soul_vulture": {
-    "criteria": {
-      "killed": "2025-01-03 05:27:29 +0000"
-    },
-    "done": true
-  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-01-03 04:20:38 +0000"
@@ -4753,21 +4741,33 @@
     },
     "done": true
   },
-  "create:burner": {
-    "criteria": {
-      "0": "2025-01-03 05:30:55 +0000"
-    },
-    "done": true
-  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-01-03 04:24:05 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/network/blocks/energy_energy_acceptor_alt": {
+    "criteria": {
+      "has_cable_energy_acceptor": "2025-01-03 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-01-03 05:27:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-01-03 05:30:18 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-03 05:30:55 +0000"
     },
     "done": true
   },

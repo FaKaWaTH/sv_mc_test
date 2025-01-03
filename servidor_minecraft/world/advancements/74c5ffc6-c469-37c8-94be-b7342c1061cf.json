@@ -5072,27 +5072,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/soul_vulture": {
-    "criteria": {
-      "killed": "2025-01-03 05:26:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/totem_of_undying": {
-    "criteria": {
-      "used_totem": "2025-01-03 05:04:57 +0000"
-    },
-    "done": true
-  },
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2025-01-03 04:15:08 +0000"
-    },
-    "done": true
-  },
-  "create:steam_engine": {
-    "criteria": {
-      "0": "2025-01-03 04:45:06 +0000"
     },
     "done": true
   },
@@ -5102,9 +5084,27 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-01-03 04:45:06 +0000"
+    },
+    "done": true
+  },
   "create:burner": {
     "criteria": {
       "0": "2025-01-03 04:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-01-03 05:04:57 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-01-03 05:26:13 +0000"
     },
     "done": true
   },
