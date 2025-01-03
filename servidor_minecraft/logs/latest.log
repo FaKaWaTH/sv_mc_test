@@ -267,3 +267,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 19:14:21.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-621, y=52, z=119} BlockPos{x=-623, y=54, z=119}
 [03Jan2025 19:14:21.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-621, y=52, z=119} BlockPos{x=-623, y=54, z=119}
 [03Jan2025 19:14:21.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-621, y=52, z=119} BlockPos{x=-623, y=54, z=119}
+[03Jan2025 19:19:08.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [A Pair of Giants]
+[03Jan2025 19:21:51.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Bemjaja0
+[03Jan2025 19:24:14.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=107, z=32} BlockPos{x=-157, y=106, z=31}
+[03Jan2025 19:25:36.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=121, z=40} BlockPos{x=-189, y=119, z=39}
