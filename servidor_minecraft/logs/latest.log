@@ -176,3 +176,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 00:08:02.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was doomed to fall by Straddler
 [03Jan2025 00:08:22.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
 [03Jan2025 00:09:57.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> [name:"Death 21:07:59 01-02-2025", x:182, y:42, z:-129, dim:minecraft:the_nether]
+[03Jan2025 00:13:00.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=82, z=-60} BlockPos{x=156, y=83, z=-60}
+[03Jan2025 00:13:00.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=82, z=-60} BlockPos{x=156, y=83, z=-60}
+[03Jan2025 00:13:00.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=82, z=-60} BlockPos{x=156, y=83, z=-60}
+[03Jan2025 00:13:00.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=82, z=-60} BlockPos{x=156, y=83, z=-60}
+[03Jan2025 00:13:00.279] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=157, y=82, z=-60} BlockPos{x=156, y=83, z=-60}
+[03Jan2025 00:13:14.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=51, z=-100} BlockPos{x=107, y=50, z=-100}
+[03Jan2025 00:13:14.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=51, z=-100} BlockPos{x=107, y=50, z=-100}
+[03Jan2025 00:13:14.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=51, z=-100} BlockPos{x=107, y=50, z=-100}
+[03Jan2025 00:13:14.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=51, z=-100} BlockPos{x=107, y=50, z=-100}
+[03Jan2025 00:13:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH tried to swim in lava
+[03Jan2025 00:13:40.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> [name:"Death 21:13:27 01-02-2025", x:784, y:68, z:-744, dim:minecraft:the_nether]
+[03Jan2025 00:14:07.135] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=61, z=-46} BlockPos{x=123, y=57, z=-51}
+[03Jan2025 00:14:07.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=61, z=-46} BlockPos{x=123, y=57, z=-51}
+[03Jan2025 00:14:07.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=61, z=-46} BlockPos{x=123, y=57, z=-51}
+[03Jan2025 00:14:07.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=113, y=61, z=-46} BlockPos{x=123, y=57, z=-51}
+[03Jan2025 00:14:10.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=57, z=-52} BlockPos{x=117, y=53, z=-51}
+[03Jan2025 00:14:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> [name:"Death 21:13:27 01-02-2025", x:98, y:68, z:-93, dim:minecraft:the_nether]
+[03Jan2025 00:26:07.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio has completed the challenge [Hot Tourist Destinations]
+[03Jan2025 00:27:40.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[03Jan2025 00:28:32.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FaKaWaTH moved too quickly! 10.16791834473895,1.0,-0.8621009307800058
+[03Jan2025 00:28:33.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[03Jan2025 00:28:51.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[03Jan2025 00:29:09.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3268ms or 65 ticks behind
+[03Jan2025 00:29:46.858] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[03Jan2025 00:30:19.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
