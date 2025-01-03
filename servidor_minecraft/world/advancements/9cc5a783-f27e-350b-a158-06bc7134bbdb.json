@@ -4079,6 +4079,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-03 01:46:34 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/storage_chest": {
     "criteria": {
       "has_crystals/fluix": "2025-01-03 01:43:24 +0000"
