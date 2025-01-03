@@ -787,6 +787,7 @@
       "minecraft:slime": "2025-01-02 02:27:01 +0000",
       "minecraft:evoker": "2025-01-03 02:01:32 +0000",
       "minecraft:witch": "2025-01-01 20:36:10 +0000",
+      "minecraft:wither_skeleton": "2025-01-03 05:31:42 +0000",
       "minecraft:piglin": "2025-01-02 20:43:07 +0000",
       "minecraft:silverfish": "2025-01-01 21:14:31 +0000",
       "minecraft:enderman": "2025-01-02 00:51:10 +0000",
@@ -5071,6 +5072,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-01-03 05:26:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-01-03 05:04:57 +0000"
@@ -5098,6 +5105,12 @@
   "create:burner": {
     "criteria": {
       "0": "2025-01-03 04:47:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-03 05:30:16 +0000"
     },
     "done": true
   },

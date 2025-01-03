@@ -633,6 +633,7 @@
       "minecraft:slime": "2025-01-02 21:43:41 +0000",
       "minecraft:evoker": "2025-01-03 03:29:54 +0000",
       "minecraft:witch": "2025-01-02 03:57:35 +0000",
+      "minecraft:wither_skeleton": "2025-01-03 05:30:56 +0000",
       "minecraft:piglin": "2025-01-02 22:19:52 +0000",
       "minecraft:enderman": "2025-01-02 01:18:32 +0000",
       "minecraft:vex": "2025-01-03 02:00:39 +0000",
@@ -4734,6 +4735,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed": "2025-01-03 05:27:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-01-03 04:20:38 +0000"
@@ -4746,9 +4753,21 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-03 05:30:55 +0000"
+    },
+    "done": true
+  },
   "create:shifting_gears": {
     "criteria": {
       "0": "2025-01-03 04:24:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-01-03 05:30:18 +0000"
     },
     "done": true
   },
