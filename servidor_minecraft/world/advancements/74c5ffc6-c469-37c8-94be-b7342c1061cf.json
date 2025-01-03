@@ -5211,6 +5211,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-01-03 19:12:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_rose_quartz_tiles_from_polished_rose_quartz_stonecutting": {
     "criteria": {
       "has_polished_rose_quartz": "2025-01-03 18:23:06 +0000"
@@ -5316,6 +5322,12 @@
   "create:recipes/misc/crafting/materials/brass_block_from_compacting": {
     "criteria": {
       "has_item": "2025-01-03 18:14:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2025-01-03 19:07:49 +0000"
     },
     "done": true
   },
