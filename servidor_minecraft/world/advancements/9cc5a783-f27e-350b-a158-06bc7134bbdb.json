@@ -4825,9 +4825,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/walls/smooth_sky_stone_wall": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-01-03 17:56:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/smooth_sky_stone_stairs": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
     },
     "done": true
   },
@@ -4858,6 +4870,18 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-01-03 18:07:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-01-03 18:41:32 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
     },
     "done": true
   },
@@ -4903,6 +4927,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/slabs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_small_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_lime": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
@@ -4927,6 +4963,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/block_cutter/slabs/smooth_sky_stone_slab": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_black": {
     "criteria": {
       "has_dyes/black": "2025-01-03 18:17:50 +0000"
@@ -4945,9 +4987,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/rose_quartz_block_from_rose_quartz_stonecutting": {
+    "criteria": {
+      "has_rose_quartz": "2025-01-03 18:24:36 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_purple": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_smooth_sky_stone": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
     },
     "done": true
   },
@@ -4963,6 +5017,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/walls/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_cyan": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
@@ -4972,6 +5032,12 @@
   "ae2:recipes/misc/network/cables/covered_green": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
     },
     "done": true
   },
@@ -4993,9 +5059,27 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/shaped/stairs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_candle": {
     "criteria": {
       "has_black_dye": "2025-01-03 18:17:50 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/electron_tube": {
+    "criteria": {
+      "has_item": "2025-01-03 18:24:36 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-01-03 18:28:22 +0000"
     },
     "done": true
   },

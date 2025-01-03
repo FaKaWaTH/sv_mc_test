@@ -5463,3 +5463,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 18:22:30.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=109, z=34} BlockPos{x=-156, y=108, z=34}
 [03Jan2025 18:22:30.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=109, z=34} BlockPos{x=-156, y=108, z=34}
 [03Jan2025 18:22:30.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=109, z=34} BlockPos{x=-156, y=108, z=34}
+[03Jan2025 18:27:03.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:27:03.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:28:18.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=111, z=33} BlockPos{x=-156, y=112, z=33}
+[03Jan2025 18:28:18.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=111, z=33} BlockPos{x=-156, y=112, z=33}
+[03Jan2025 18:28:18.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=111, z=33} BlockPos{x=-156, y=112, z=33}
+[03Jan2025 18:28:22.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [Networking Switchboard]
+[03Jan2025 18:29:13.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio has made the advancement [What a Deal!]
+[03Jan2025 18:32:03.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:32:03.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:37:03.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:37:03.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:42:03.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:42:03.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:42:29.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Complex Curiosities]
+[03Jan2025 18:44:03.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-160, y=105, z=54} BlockPos{x=-154, y=106, z=55}
+[03Jan2025 18:46:09.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=95, z=53} BlockPos{x=-143, y=81, z=59}
+[03Jan2025 18:47:03.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:47:03.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jan2025 18:49:00.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-307, y=60, z=-11} BlockPos{x=-306, y=59, z=-10}
+[03Jan2025 18:49:00.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-305, y=58, z=-12} BlockPos{x=-306, y=58, z=-12}
+[03Jan2025 18:49:00.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-305, y=58, z=-12} BlockPos{x=-306, y=58, z=-12}
+[03Jan2025 18:49:00.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-305, y=58, z=-12} BlockPos{x=-306, y=58, z=-12}
+[03Jan2025 18:49:01.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-307, y=59, z=-14} BlockPos{x=-306, y=58, z=-12}
+[03Jan2025 18:49:10.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [The Brass Age]
+[03Jan2025 18:49:48.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=79, z=-40} BlockPos{x=-261, y=78, z=-40}
+[03Jan2025 18:49:49.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=81, z=-40} BlockPos{x=-259, y=81, z=-40}
+[03Jan2025 18:49:49.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=81, z=-40} BlockPos{x=-259, y=81, z=-40}
+[03Jan2025 18:49:49.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=81, z=-40} BlockPos{x=-259, y=81, z=-40}
+[03Jan2025 18:49:49.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=81, z=-40} BlockPos{x=-259, y=81, z=-40}
+[03Jan2025 18:49:49.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=81, z=-40} BlockPos{x=-259, y=81, z=-40}
+[03Jan2025 18:49:49.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=81, z=-40} BlockPos{x=-259, y=81, z=-40}
+[03Jan2025 18:49:49.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=81, z=-40} BlockPos{x=-259, y=81, z=-40}
+[03Jan2025 18:50:26.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-71, y=53, z=-10} BlockPos{x=-72, y=52, z=-11}
+[03Jan2025 18:52:03.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jan2025 18:52:03.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
