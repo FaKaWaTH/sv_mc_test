@@ -5277,6 +5277,12 @@
     },
     "done": true
   },
+  "create:mechanical_arm": {
+    "criteria": {
+      "0": "2025-01-03 18:58:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/brass_nugget_from_decompacting": {
     "criteria": {
       "has_item": "2025-01-03 18:14:03 +0000"
@@ -5322,6 +5328,12 @@
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed": "2025-01-03 17:32:26 +0000"
+    },
+    "done": true
+  },
+  "create:arm_blaze_burner": {
+    "criteria": {
+      "0": "2025-01-03 18:53:08 +0000"
     },
     "done": true
   },
