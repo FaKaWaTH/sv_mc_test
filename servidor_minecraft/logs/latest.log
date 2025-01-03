@@ -1,53 +1,53 @@
-[03Jan2025 05:50:58.398] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[03Jan2025 05:50:58.406] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[03Jan2025 05:51:00.494] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[03Jan2025 05:51:00.633] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sv_mc_test/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[03Jan2025 05:51:01.347] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[03Jan2025 05:51:01.350] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03Jan2025 05:51:01.356] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03Jan2025 05:51:01.358] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[03Jan2025 05:51:01.822] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
-[03Jan2025 05:51:07.538] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03Jan2025 05:51:07.676] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[03Jan2025 05:51:07.991] [main/INFO] [Xenon/]: Loaded configuration file for Xenon: 83 options available, 0 override(s) found
-[03Jan2025 05:51:12.092] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[03Jan2025 05:51:35.790] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[03Jan2025 05:51:35.791] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[03Jan2025 05:51:35.803] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[03Jan2025 05:51:35.810] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[03Jan2025 05:51:35.815] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[03Jan2025 05:51:35.819] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[03Jan2025 05:51:35.826] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[03Jan2025 05:51:35.830] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[03Jan2025 05:51:37.671] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[03Jan2025 05:51:37.678] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[03Jan2025 05:51:37.924] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[03Jan2025 05:51:45.663] [modloading-worker-0/INFO] [com.blocklegend001.immersiveores.ImmersiveOres/]: Mod is loaded
-[03Jan2025 05:51:46.339] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[03Jan2025 05:51:47.235] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
-[03Jan2025 05:51:47.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[03Jan2025 05:51:47.382] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[03Jan2025 05:51:47.383] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Jan2025 05:51:47.401] [main/INFO] [journeymap/]: Initializing Packet Registries
-[03Jan2025 05:51:47.590] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[03Jan2025 05:51:47.618] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin ae2:wthit at appeng.integration.modules.wthit.WthitModule
-[03Jan2025 05:51:47.719] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
-[03Jan2025 05:51:47.738] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
-[03Jan2025 05:51:47.800] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
-[03Jan2025 05:51:47.801] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
-[03Jan2025 05:51:47.811] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
-[03Jan2025 05:51:47.921] [modloading-worker-0/WARN] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Found plugins registered via legacy platform-dependant method:
-[03Jan2025 05:51:47.921] [modloading-worker-0/WARN] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] [ae2:wthit]
-[03Jan2025 05:51:47.921] [modloading-worker-0/WARN] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] The method will be removed on Minecraft 1.21
-[03Jan2025 05:51:47.967] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[03Jan2025 05:51:57.910] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Jan2025 05:52:03.536] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/assets/.mcassetsroot' uses unexpected schema
-[03Jan2025 05:52:03.540] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/data/.mcassetsroot' uses unexpected schema
-[03Jan2025 05:52:04.267] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: Value must be positive: 0
-[03Jan2025 05:52:08.122] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[03Jan2025 05:52:10.578] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Invalid path in pack: creatingspace:advancements/Where_is_the_cheese.json, ignoring
-[03Jan2025 05:52:10.595] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Invalid path in pack: creatingspace:advancements/Reach_earth_orbit.json, ignoring
-[03Jan2025 05:52:11.305] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe creatingspace:advanced_spacesuit_fabric
+[03Jan2025 17:24:29.853] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[03Jan2025 17:24:29.867] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Jan2025 17:24:31.897] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Jan2025 17:24:31.997] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/sv_mc_test/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Jan2025 17:24:32.636] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[03Jan2025 17:24:32.652] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Jan2025 17:24:32.655] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Jan2025 17:24:32.657] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[03Jan2025 17:24:33.222] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 5 dependencies adding them to mods collection
+[03Jan2025 17:24:39.114] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Jan2025 17:24:39.345] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[03Jan2025 17:24:39.531] [main/INFO] [Xenon/]: Loaded configuration file for Xenon: 83 options available, 0 override(s) found
+[03Jan2025 17:24:43.968] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[03Jan2025 17:25:09.579] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[03Jan2025 17:25:09.588] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03Jan2025 17:25:09.593] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03Jan2025 17:25:09.600] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03Jan2025 17:25:09.615] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03Jan2025 17:25:09.616] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03Jan2025 17:25:09.617] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[03Jan2025 17:25:09.628] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[03Jan2025 17:25:11.416] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[03Jan2025 17:25:11.417] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[03Jan2025 17:25:11.694] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[03Jan2025 17:25:18.906] [modloading-worker-0/INFO] [com.blocklegend001.immersiveores.ImmersiveOres/]: Mod is loaded
+[03Jan2025 17:25:19.739] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[03Jan2025 17:25:20.903] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: BETA Current: 0.6.11-13 Target: null
+[03Jan2025 17:25:20.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03Jan2025 17:25:20.931] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03Jan2025 17:25:21.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[03Jan2025 17:25:21.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Jan2025 17:25:21.107] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing plugin ae2:wthit at appeng.integration.modules.wthit.WthitModule
+[03Jan2025 17:25:21.205] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:core at mcp.mobius.waila.plugin.core.CoreCommonPlugin
+[03Jan2025 17:25:21.233] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:vanilla at mcp.mobius.waila.plugin.vanilla.VanillaCommonPlugin
+[03Jan2025 17:25:21.287] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[03Jan2025 17:25:21.327] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:harvest at mcp.mobius.waila.plugin.harvest.HarvestCommonPlugin
+[03Jan2025 17:25:21.329] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:forge at mcp.mobius.waila.plugin.forge.ForgeCommonPlugin
+[03Jan2025 17:25:21.332] [modloading-worker-0/INFO] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Initializing common plugin waila:extra at mcp.mobius.waila.plugin.extra.ExtraPlugin
+[03Jan2025 17:25:21.365] [modloading-worker-0/WARN] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] Found plugins registered via legacy platform-dependant method:
+[03Jan2025 17:25:21.365] [modloading-worker-0/WARN] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] [ae2:wthit]
+[03Jan2025 17:25:21.366] [modloading-worker-0/WARN] [mcp.mobius.waila.plugin.PluginLoader/]: [WTHIT] The method will be removed on Minecraft 1.21
+[03Jan2025 17:25:21.388] [modloading-worker-0/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[03Jan2025 17:25:29.361] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Jan2025 17:25:35.223] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/assets/.mcassetsroot' uses unexpected schema
+[03Jan2025 17:25:35.227] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/sv_mc_test/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23145!/data/.mcassetsroot' uses unexpected schema
+[03Jan2025 17:25:36.253] [main/ERROR] [net.minecraft.world.level.biome.MobSpawnSettings/]: Spawn data: Value must be positive: 0
+[03Jan2025 17:25:39.833] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03Jan2025 17:25:42.879] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Invalid path in pack: creatingspace:advancements/Where_is_the_cheese.json, ignoring
+[03Jan2025 17:25:42.881] [Worker-Main-1/ERROR] [net.minecraft.Util/]: Invalid path in pack: creatingspace:advancements/Reach_earth_orbit.json, ignoring
+[03Jan2025 17:25:43.930] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe creatingspace:advanced_spacesuit_fabric
 com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23145!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -90,137 +90,98 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[03Jan2025 05:52:11.502] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 32 recipes
-[03Jan2025 05:52:11.940] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2852 advancements
-[03Jan2025 05:52:11.966] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
-[03Jan2025 05:52:11.981] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
-[03Jan2025 05:52:11.982] [main/INFO] [com.rae.creatingspace.CreatingSpace/]: Beginning loading of data for data loader: creatingspace_utilities
-[03Jan2025 05:52:11.984] [main/INFO] [com.rae.creatingspace.CreatingSpace/]: Data loader for creatingspace_utilities loaded 1 jsons
-[03Jan2025 05:52:12.054] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: creatingspace:moon_carver_replaceables
-[03Jan2025 05:52:15.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[03Jan2025 05:52:15.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Jan2025 05:52:15.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Jan2025 05:52:15.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Jan2025 05:52:16.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Jan2025 05:52:16.226] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03Jan2025 05:52:16.400] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Jan2025 05:52:16.401] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Jan2025 05:52:16.402] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Jan2025 05:52:16.402] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Jan2025 05:52:16.442] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[03Jan2025 05:52:16.444] [Thread-1/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[03Jan2025 05:52:16.754] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Jan2025 05:52:22.262] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Jan2025 05:52:24.660] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Jan2025 05:52:25.738] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
-[03Jan2025 05:52:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Jan2025 05:52:40.069] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.082] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.083] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.084] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.085] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.086] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.094] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.096] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.097] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.098] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.099] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.100] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.101] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.103] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.111] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.113] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.118] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.127] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.129] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.135] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.143] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.145] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.160] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.161] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.166] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.168] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.281] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:40.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:41.282] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:41.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:42.281] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:42.781] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:43.493] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Jan2025 05:52:45.723] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 19441 ms
-[03Jan2025 05:52:45.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (29.291s)! For help, type "help"
-[03Jan2025 05:52:45.838] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Jan2025 05:52:45.883] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.TestPlots for plots
-[03Jan2025 05:52:45.890] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
-[03Jan2025 05:52:45.891] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
-[03Jan2025 05:52:45.905] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.P2PTestPlots for plots
-[03Jan2025 05:52:45.906] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
-[03Jan2025 05:52:45.907] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
-[03Jan2025 05:52:45.908] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
-[03Jan2025 05:52:45.910] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
-[03Jan2025 05:52:45.911] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
-[03Jan2025 05:52:45.913] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.QnbTestPlots for plots
-[03Jan2025 05:52:45.913] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.GuidebookPlot for plots
-[03Jan2025 05:52:45.914] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.SubnetPlots for plots
-[03Jan2025 05:52:45.915] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
-[03Jan2025 05:52:45.923] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
-[03Jan2025 05:52:46.108] [Server thread/INFO] [com.rae.creatingspace.server.event.DataEventHandler/]: getting the server registry access
-[03Jan2025 05:52:46.113] [Server thread/INFO] [com.rae.creatingspace.server.event.DataEventHandler/]: updating the travel map
-[03Jan2025 05:52:48.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
-[03Jan2025 05:54:39.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FaKaWaTH[/[::1]:49078] logged in with entity id 246 at (1155.1004485866233, 58.0, -434.65003237956904)
-[03Jan2025 05:54:39.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH joined the game
-[03Jan2025 05:54:41.195] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[03Jan2025 05:55:09.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bemjaja0[/[::1]:37472] logged in with entity id 483 at (1147.3470223196077, 58.0, -442.2982897500939)
-[03Jan2025 05:55:09.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 joined the game
-[03Jan2025 05:56:55.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1259, y=85, z=-421} BlockPos{x=1260, y=86, z=-421}
-[03Jan2025 05:56:55.709] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1259, y=85, z=-421} BlockPos{x=1260, y=86, z=-421}
-[03Jan2025 05:56:55.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1259, y=85, z=-421} BlockPos{x=1260, y=86, z=-421}
-[03Jan2025 05:56:55.827] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1259, y=85, z=-421} BlockPos{x=1260, y=86, z=-421}
-[03Jan2025 05:57:02.601] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
-[03Jan2025 05:57:08.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1277, y=103, z=-421} BlockPos{x=1279, y=105, z=-421}
-[03Jan2025 05:57:08.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1277, y=103, z=-421} BlockPos{x=1279, y=105, z=-421}
-[03Jan2025 05:57:08.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1277, y=103, z=-421} BlockPos{x=1279, y=105, z=-421}
-[03Jan2025 05:59:33.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Wither Skeleton
-[03Jan2025 05:59:43.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[03Jan2025 06:00:15.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2539ms or 50 ticks behind
-[03Jan2025 06:00:27.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> [name:"Death 02:59:33 01-03-2025", x:1131, y:67, z:-415, dim:minecraft:the_nether]
-[03Jan2025 06:01:04.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1288, y=114, z=-421} BlockPos{x=1287, y=113, z=-421}
-[03Jan2025 06:01:04.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1288, y=114, z=-421} BlockPos{x=1287, y=113, z=-421}
-[03Jan2025 06:01:04.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1288, y=114, z=-421} BlockPos{x=1287, y=113, z=-421}
-[03Jan2025 06:01:08.039] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[03Jan2025 06:01:14.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1264, y=90, z=-421} BlockPos{x=1262, y=88, z=-421}
-[03Jan2025 06:22:27.189] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bemjaja0 lost connection: Timed out
-[03Jan2025 06:22:27.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 left the game
-[03Jan2025 06:22:42.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FaKaWaTH lost connection: Timed out
-[03Jan2025 06:22:42.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH left the game
-[03Jan2025 06:22:55.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
-[03Jan2025 06:22:56.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
-[03Jan2025 06:23:03.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[03Jan2025 06:23:03.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[03Jan2025 06:23:03.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[03Jan2025 06:23:03.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[03Jan2025 06:23:04.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03Jan2025 06:23:05.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:moon_orbit
-[03Jan2025 06:23:05.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03Jan2025 06:23:05.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:the_moon
-[03Jan2025 06:23:05.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:mars
-[03Jan2025 06:23:05.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:mars_orbit
-[03Jan2025 06:23:05.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:earth_orbit
-[03Jan2025 06:23:05.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:venus
-[03Jan2025 06:23:05.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03Jan2025 06:23:05.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
-[03Jan2025 06:23:05.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03Jan2025 06:23:05.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
-[03Jan2025 06:23:05.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03Jan2025 06:23:05.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_moon): All chunks are saved
-[03Jan2025 06:23:05.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
-[03Jan2025 06:23:05.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
-[03Jan2025 06:23:05.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
-[03Jan2025 06:23:05.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
-[03Jan2025 06:23:05.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03Jan2025 06:23:05.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[03Jan2025 06:23:05.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03Jan2025 06:23:05.638] [Server thread/INFO] [WebDisplays/]: Miniserv server stopped
-[03Jan2025 06:23:06.159] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Jan2025 17:25:44.058] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 32 recipes
+[03Jan2025 17:25:44.597] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2852 advancements
+[03Jan2025 17:25:44.618] [main/INFO] [com.rae.creatingspace.CreatingSpace/]: Beginning loading of data for data loader: creatingspace_utilities
+[03Jan2025 17:25:44.619] [main/INFO] [com.rae.creatingspace.CreatingSpace/]: Data loader for creatingspace_utilities loaded 1 jsons
+[03Jan2025 17:25:44.635] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[03Jan2025 17:25:44.647] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio entities
+[03Jan2025 17:25:44.737] [main/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: creatingspace:moon_carver_replaceables
+[03Jan2025 17:25:48.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Jan2025 17:25:48.954] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Jan2025 17:25:48.956] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Jan2025 17:25:48.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Jan2025 17:25:49.776] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Jan2025 17:25:49.889] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Jan2025 17:25:50.162] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Jan2025 17:25:50.162] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Jan2025 17:25:50.164] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Jan2025 17:25:50.165] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Jan2025 17:25:50.247] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Jan2025 17:25:50.577] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Jan2025 17:26:05.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Jan2025 17:26:15.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.440] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.441] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.442] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.443] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.457] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.458] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.461] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.498] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.499] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.503] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.534] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.561] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.616] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.689] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.691] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.757] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.775] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.785] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:15.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:16.208] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:16.731] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:17.252] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:17.753] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:18.258] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:18.727] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:19.226] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:19.709] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:20.587] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:20.752] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:21.210] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:21.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:22.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:22.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:23.205] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:23.791] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Jan2025 17:26:24.238] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 34%
+[03Jan2025 17:26:26.103] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 20899 ms
+[03Jan2025 17:26:26.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (35.900s)! For help, type "help"
+[03Jan2025 17:26:26.206] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Jan2025 17:26:26.289] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.TestPlots for plots
+[03Jan2025 17:26:26.311] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
+[03Jan2025 17:26:26.314] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
+[03Jan2025 17:26:26.342] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.P2PTestPlots for plots
+[03Jan2025 17:26:26.346] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
+[03Jan2025 17:26:26.347] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
+[03Jan2025 17:26:26.348] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
+[03Jan2025 17:26:26.349] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
+[03Jan2025 17:26:26.351] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
+[03Jan2025 17:26:26.353] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.QnbTestPlots for plots
+[03Jan2025 17:26:26.354] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.GuidebookPlot for plots
+[03Jan2025 17:26:26.355] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.SubnetPlots for plots
+[03Jan2025 17:26:26.357] [Server thread/INFO] [AE2:S/]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
+[03Jan2025 17:26:26.364] [Server thread/INFO] [mcp.mobius.waila.config.PluginConfig/]: [WTHIT] Plugin config reloaded
+[03Jan2025 17:26:26.616] [Server thread/INFO] [com.rae.creatingspace.server.event.DataEventHandler/]: getting the server registry access
+[03Jan2025 17:26:26.617] [Server thread/INFO] [com.rae.creatingspace.server.event.DataEventHandler/]: updating the travel map
+[03Jan2025 17:26:28.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[03Jan2025 17:26:48.722] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaimelitio[/[::1]:59362] logged in with entity id 237 at (-113.55473685699206, 102.0, 24.672535762782445)
+[03Jan2025 17:26:48.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio joined the game
+[03Jan2025 17:26:50.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2160ms or 43 ticks behind
+[03Jan2025 17:27:14.101] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9021ms or 180 ticks behind
+[03Jan2025 17:27:34.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2589ms or 51 ticks behind
+[03Jan2025 17:27:44.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bemjaja0[/[::1]:60940] logged in with entity id 772 at (-87.47033086979827, 101.0, 34.86505968311919)
+[03Jan2025 17:27:44.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 joined the game
+[03Jan2025 17:28:06.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16954ms or 339 ticks behind
+[03Jan2025 17:28:14.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 2 of a max of 20 players online: Jaimelitio, Bemjaja0
+[03Jan2025 17:28:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] puro weones y yo
+[03Jan2025 17:29:52.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio has made the advancement [Bonk!]
+[03Jan2025 17:32:26.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Straddle My Ol' Saddle]
+[03Jan2025 17:37:38.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> aaa
+[03Jan2025 17:43:33.944] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FaKaWaTH[/[::1]:52650] logged in with entity id 10961 at (-77.94560653426505, 106.0, 37.468082057525756)
+[03Jan2025 17:43:34.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH joined the game
+[03Jan2025 17:43:50.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> puros weones y yo
