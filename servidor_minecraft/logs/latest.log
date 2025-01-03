@@ -181,3 +181,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 04:11:16.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bemjaja0[/[::1]:54662] logged in with entity id 894 at (-84.09982440505846, 100.0, 83.88832593319506)
 [03Jan2025 04:11:16.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 joined the game
 [03Jan2025 04:23:42.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2319ms or 46 ticks behind
+[03Jan2025 04:36:46.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[03Jan2025 04:48:59.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> [name:"Camino Netherfort", x:1232, y:87, z:-688, dim:minecraft:the_nether]
+[03Jan2025 04:53:15.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimelitio lost connection: Timed out
+[03Jan2025 04:53:15.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio left the game
+[03Jan2025 04:56:35.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 fell from a high place

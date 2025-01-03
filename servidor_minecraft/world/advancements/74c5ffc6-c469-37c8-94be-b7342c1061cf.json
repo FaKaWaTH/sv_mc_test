@@ -5077,9 +5077,21 @@
     },
     "done": true
   },
+  "create:steam_engine": {
+    "criteria": {
+      "0": "2025-01-03 04:45:06 +0000"
+    },
+    "done": true
+  },
   "create:water_supply": {
     "criteria": {
       "0": "2025-01-03 04:15:17 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-03 04:47:29 +0000"
     },
     "done": true
   },

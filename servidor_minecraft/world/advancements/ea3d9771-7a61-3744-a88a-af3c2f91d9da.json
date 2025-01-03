@@ -42,6 +42,7 @@
       "minecraft:pillager": "2025-01-03 01:55:06 +0000",
       "minecraft:skeleton": "2025-01-02 18:59:58 +0000",
       "minecraft:ravager": "2025-01-03 01:59:25 +0000",
+      "minecraft:ghast": "2025-01-03 04:44:03 +0000",
       "minecraft:hoglin": "2025-01-03 01:21:40 +0000",
       "minecraft:vindicator": "2025-01-03 01:57:17 +0000",
       "minecraft:magma_cube": "2025-01-02 22:37:10 +0000",
@@ -3964,6 +3965,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-01-03 04:10:03 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-01-03 04:36:29 +0000"
     },
     "done": true
   },
