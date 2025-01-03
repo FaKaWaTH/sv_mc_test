@@ -607,3 +607,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 03:44:25.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rezevt> a eso me refiero
 [03Jan2025 03:47:41.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimelitio lost connection: Timed out
 [03Jan2025 03:47:41.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio left the game
+[03Jan2025 03:51:31.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rezevt lost connection: Timed out
+[03Jan2025 03:51:31.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt left the game
+[03Jan2025 03:54:26.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Jaimelitio[/[::1]:54124] logged in with entity id 233589 at (-130.91553644349082, 40.0, -106.5925551503692)
+[03Jan2025 03:54:26.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio joined the game
+[03Jan2025 03:57:19.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=58, z=-187} BlockPos{x=-181, y=59, z=-188}
+[03Jan2025 03:57:19.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=58, z=-187} BlockPos{x=-181, y=59, z=-188}
+[03Jan2025 03:57:19.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-181, y=58, z=-187} BlockPos{x=-181, y=59, z=-188}
+[03Jan2025 03:57:33.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-175, y=52, z=-178} BlockPos{x=-180, y=59, z=-186}
+[03Jan2025 03:58:40.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=59, z=-187} BlockPos{x=-168, y=58, z=-189}
+[03Jan2025 03:58:40.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-168, y=59, z=-187} BlockPos{x=-168, y=58, z=-189}

@@ -4121,6 +4121,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-01-03 03:48:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-01-03 00:52:32 +0000"
@@ -4168,6 +4174,12 @@
       "has_deepslate_bricks": "2025-01-03 02:59:58 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-01-03 03:55:39 +0000"
+    },
+    "done": false
   },
   "ae2:recipes/misc/network/parts/terminals": {
     "criteria": {
@@ -4523,6 +4535,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-01-03 03:48:44 +0000"
+    },
+    "done": true
+  },
   "ae2:main/glass_cable": {
     "criteria": {
       "certus": "2025-01-03 01:55:25 +0000"
@@ -4655,6 +4673,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-01-03 03:48:44 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/parts/toggle_bus": {
     "criteria": {
       "has_glass_cable": "2025-01-03 01:55:25 +0000"
@@ -4682,6 +4706,12 @@
   "ae2:recipes/misc/materials/annihilationcore": {
     "criteria": {
       "has_logic_processor": "2025-01-03 02:19:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-01-03 03:48:44 +0000"
     },
     "done": true
   },
