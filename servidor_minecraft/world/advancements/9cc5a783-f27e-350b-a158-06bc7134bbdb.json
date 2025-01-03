@@ -3993,6 +3993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-01-03 02:35:20 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/spatial_components": {
     "criteria": {
       "has_engineering_processor": "2025-01-03 02:13:26 +0000"
@@ -4041,6 +4047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-01-03 02:35:20 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/misctools_charged_staff": {
     "criteria": {
       "has_charged_certus_quartz_crystal": "2025-01-03 01:42:46 +0000"
@@ -4050,6 +4062,12 @@
   "ae2:recipes/misc/network/cables/glass_brown": {
     "criteria": {
       "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/wireless_terminal": {
+    "criteria": {
+      "has_terminal": "2025-01-03 02:27:11 +0000"
     },
     "done": true
   },
@@ -4107,6 +4125,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/parts/panels_monitor": {
+    "criteria": {
+      "has_semi_dark_monitor": "2025-01-03 02:25:30 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/tools/fluix_upgrade_smithing_template": {
     "criteria": {
       "has_fluix_crystal": "2025-01-03 01:43:24 +0000"
@@ -4134,6 +4158,12 @@
   "ae2:recipes/misc/network/parts/export_bus": {
     "criteria": {
       "has_formation_core": "2025-01-03 02:24:17 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/terminals_crafting": {
+    "criteria": {
+      "has_terminal": "2025-01-03 02:27:11 +0000"
     },
     "done": true
   },
@@ -4185,6 +4215,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/view_cell_storage": {
+    "criteria": {
+      "has_terminal": "2025-01-03 02:27:11 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/quantum_ring": {
     "criteria": {
       "has_engineering_processor": "2025-01-03 02:13:26 +0000"
@@ -4221,6 +4257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-01-03 02:35:20 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_purple": {
     "criteria": {
       "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
@@ -4236,6 +4278,18 @@
   "ae2:recipes/misc/decorative/cut_quartz_block_from_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-03 01:14:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/monitors_storage": {
+    "criteria": {
+      "has_illuminated_panel": "2025-01-03 02:25:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cells/view_cell": {
+    "criteria": {
+      "has_terminal": "2025-01-03 02:27:11 +0000"
     },
     "done": true
   },
