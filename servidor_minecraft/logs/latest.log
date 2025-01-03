@@ -292,3 +292,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 20:12:16.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi has made the advancement [Stone Age]
 [03Jan2025 20:22:38.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FrugeledeTomachi lost connection: Timed out
 [03Jan2025 20:22:38.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FrugeledeTomachi left the game
+[03Jan2025 20:46:45.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FaKaWaTH[/[::1]:33868] logged in with entity id 145290 at (-82.13749998807907, 107.0, 42.990116287903994)
+[03Jan2025 20:46:45.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH joined the game
