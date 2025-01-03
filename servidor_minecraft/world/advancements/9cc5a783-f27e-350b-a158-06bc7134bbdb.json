@@ -4727,6 +4727,12 @@
     },
     "done": false
   },
+  "ae2:recipes/misc/network/blocks/energy_energy_acceptor_alt": {
+    "criteria": {
+      "has_cable_energy_acceptor": "2025-01-03 04:55:33 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-01-03 04:20:38 +0000"
