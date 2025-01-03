@@ -47,6 +47,7 @@
       "minecraft:vindicator": "2025-01-03 01:57:17 +0000",
       "minecraft:magma_cube": "2025-01-02 22:37:10 +0000",
       "minecraft:spider": "2025-01-02 18:40:45 +0000",
+      "minecraft:piglin_brute": "2025-01-03 17:57:43 +0000",
       "minecraft:creeper": "2025-01-03 02:16:32 +0000",
       "minecraft:evoker": "2025-01-03 02:00:11 +0000",
       "minecraft:phantom": "2025-01-03 17:37:20 +0000",
@@ -3975,9 +3976,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-03 17:57:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2025-01-03 17:30:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_hoglin_stable": "2025-01-03 17:57:11 +0000"
     },
     "done": true
   },
