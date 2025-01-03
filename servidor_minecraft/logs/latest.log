@@ -548,3 +548,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 03:03:07.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Reze joined the game
 [03Jan2025 03:03:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> ol
 [03Jan2025 03:03:20.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> ol
+[03Jan2025 03:09:26.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> no dormir
+[03Jan2025 03:09:45.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> oye
+[03Jan2025 03:09:45.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> culiao
+[03Jan2025 03:09:47.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> q
+[03Jan2025 03:09:50.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> oye qlo
+[03Jan2025 03:09:53.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> tenemos ds
+[03Jan2025 03:10:03.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> teni perla de ender?
+[03Jan2025 03:10:05.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> enderpel
+[03Jan2025 03:10:14.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> tienes zanahoria?
+[03Jan2025 03:10:17.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> sis
+[03Jan2025 03:10:18.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> solo una
+[03Jan2025 03:10:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> pls
+[03Jan2025 03:10:31.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> teni perla?
+[03Jan2025 03:10:33.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> grax
+[03Jan2025 03:10:39.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> tengo una
+[03Jan2025 03:10:43.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> daemw
+[03Jan2025 03:11:18.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> toma
+[03Jan2025 03:11:31.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> vale nw
+[03Jan2025 03:11:33.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> al final eran 2
+[03Jan2025 03:11:45.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> skfjskd garsias
+[03Jan2025 03:16:11.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Reze
+[03Jan2025 03:17:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> Y MIS ITEM DEL terrari
+[03Jan2025 03:17:05.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> a
+[03Jan2025 03:17:55.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> lo q falta
+[03Jan2025 03:18:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Reze> ve disc
+[03Jan2025 03:21:11.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [The Andesite Age]
+[03Jan2025 03:25:33.943] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/147, l='ServerLevel[world]', x=-153.30, y=100.00, z=53.70] died, message: 'Villager was slain by Vindicator'
+[03Jan2025 03:25:37.624] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/146, l='ServerLevel[world]', x=-153.48, y=100.00, z=53.70] died, message: 'Villager was shot by Pillager'
+[03Jan2025 03:25:47.764] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/145, l='ServerLevel[world]', x=-153.34, y=100.00, z=53.10] died, message: 'Villager was shot by Pillager'
+[03Jan2025 03:28:50.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=96, z=12} BlockPos{x=-178, y=95, z=11}
+[03Jan2025 03:28:50.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=96, z=12} BlockPos{x=-178, y=95, z=11}
+[03Jan2025 03:28:50.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=96, z=12} BlockPos{x=-178, y=95, z=11}
+[03Jan2025 03:28:51.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=96, z=12} BlockPos{x=-178, y=95, z=11}
+[03Jan2025 03:28:51.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-177, y=96, z=12} BlockPos{x=-178, y=95, z=11}
+[03Jan2025 03:28:58.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=91, z=10} BlockPos{x=-177, y=93, z=11}
