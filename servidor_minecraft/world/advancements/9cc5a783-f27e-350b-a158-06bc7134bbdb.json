@@ -4899,6 +4899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 19:29:12 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/covered_red": {
     "criteria": {
       "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
@@ -4938,6 +4944,18 @@
   "ae2:recipes/misc/decorative/sky_stone_small_brick_from_stonecutting": {
     "criteria": {
       "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 19:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 19:29:12 +0000"
     },
     "done": true
   },
@@ -5040,6 +5058,12 @@
   "ae2:recipes/misc/decorative/sky_stone_brick_from_stonecutting": {
     "criteria": {
       "has_smooth_sky_stone_block": "2025-01-03 18:28:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-01-03 19:29:12 +0000"
     },
     "done": true
   },
