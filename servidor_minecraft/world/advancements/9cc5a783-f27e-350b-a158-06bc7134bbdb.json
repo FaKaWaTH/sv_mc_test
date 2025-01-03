@@ -3409,9 +3409,10 @@
       "minecraft:crimson_forest": "2025-01-02 22:17:02 +0000",
       "minecraft:nether_wastes": "2025-01-02 22:17:12 +0000",
       "minecraft:soul_sand_valley": "2025-01-02 22:22:18 +0000",
-      "minecraft:basalt_deltas": "2025-01-02 22:21:06 +0000"
+      "minecraft:basalt_deltas": "2025-01-02 22:21:06 +0000",
+      "minecraft:warped_forest": "2025-01-03 05:10:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
