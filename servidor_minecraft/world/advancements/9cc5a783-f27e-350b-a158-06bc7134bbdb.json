@@ -4831,5 +4831,185 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/covered_black": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 18:14:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_fluix": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_brown": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-03 18:07:33 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_fluix_clean": {
+    "criteria": {
+      "has_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 18:17:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_red": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 18:14:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_magenta": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_gray": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 18:17:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_lime": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-03 18:14:10 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_orange": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_light_blue": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 18:17:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_blue": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 18:17:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_purple": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_yellow": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2025-01-03 18:17:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_cyan": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_green": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_black": {
+    "criteria": {
+      "has_dyes/black": "2025-01-03 18:17:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_pink": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_light_gray": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2025-01-03 18:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-03 18:17:50 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/covered_white": {
+    "criteria": {
+      "has_fluix_covered_cable": "2025-01-03 18:18:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
