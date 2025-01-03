@@ -594,3 +594,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [03Jan2025 03:33:15.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Vindicator
 [03Jan2025 03:33:29.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio was slain by Vex
 [03Jan2025 03:33:54.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Vex
+[03Jan2025 03:40:30.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH has made the advancement [What a Deal!]
+[03Jan2025 03:42:45.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rezevt[/[::1]:60120] logged in with entity id 229452 at (10.5, 101.0, -9.5)
+[03Jan2025 03:42:45.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt joined the game
+[03Jan2025 03:43:05.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rezevt> plw
+[03Jan2025 03:43:14.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rezevt> q mierda paso
+[03Jan2025 03:43:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rezevt> KDHJNALSD
+[03Jan2025 03:43:18.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Bonk!]
+[03Jan2025 03:44:03.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> comco como
+[03Jan2025 03:44:16.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt has made the advancement [Amateur Archaeologist]
+[03Jan2025 03:44:17.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt has made the advancement [Cover Me with Diamonds]
+[03Jan2025 03:44:25.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rezevt> a eso me refiero
+[03Jan2025 03:47:41.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimelitio lost connection: Timed out
+[03Jan2025 03:47:41.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio left the game

@@ -3983,6 +3983,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-03 03:39:46 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/glass_green": {
     "criteria": {
       "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
@@ -4085,6 +4091,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/portable_fluid_cell_4k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
+    },
+    "done": true
+  },
   "ae2:main/fluix": {
     "criteria": {
       "certus": "2025-01-03 01:43:24 +0000"
@@ -4103,6 +4115,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/portable_fluid_cell_1k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
     "criteria": {
       "has_smoking_upgrade": "2025-01-03 00:52:32 +0000"
@@ -4118,6 +4136,24 @@
   "ae2:recipes/misc/tools/fluix_hoe": {
     "criteria": {
       "has_crystals/fluix": "2025-01-03 01:43:24 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/energy_dense_energy_cell": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
     },
     "done": true
   },
@@ -4181,6 +4217,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-03 03:37:06 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cells/fluid_storage_cell_1k_storage": {
     "criteria": {
       "has_cell_component_1k": "2025-01-03 02:52:21 +0000"
@@ -4196,6 +4238,12 @@
   "ae2:recipes/misc/network/parts/terminals_crafting": {
     "criteria": {
       "has_terminal": "2025-01-03 02:27:11 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_fluid_cell_16k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
     },
     "done": true
   },
@@ -4259,6 +4307,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-03 03:40:30 +0000"
+    },
+    "done": true
+  },
   "ae2:main/storage_cell": {
     "criteria": {
       "c1k": "2025-01-03 02:55:58 +0000"
@@ -4313,6 +4367,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/portable_fluid_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/blocks/controller": {
     "criteria": {
       "has_purified_fluix_crystal": "2025-01-03 01:43:24 +0000"
@@ -4334,6 +4394,12 @@
   "ae2:recipes/misc/network/parts/tunnels_me": {
     "criteria": {
       "has_engineering_processor": "2025-01-03 02:13:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-03 03:37:06 +0000"
     },
     "done": true
   },
@@ -4445,6 +4511,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/tools/portable_item_cell_1k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_4k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
+    },
+    "done": true
+  },
   "ae2:main/glass_cable": {
     "criteria": {
       "certus": "2025-01-03 01:55:25 +0000"
@@ -4460,6 +4538,12 @@
   "ae2:recipes/misc/network/parts/panels_semi_dark_monitor": {
     "criteria": {
       "has_quartz_glass": "2025-01-03 02:24:42 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_256k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
     },
     "done": true
   },
@@ -4550,6 +4634,12 @@
   "ae2:recipes/misc/network/cables/glass_magenta": {
     "criteria": {
       "has_fluix_glass_cable": "2025-01-03 01:55:25 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/portable_item_cell_64k": {
+    "criteria": {
+      "has_energy_cell": "2025-01-03 03:46:19 +0000"
     },
     "done": true
   },
