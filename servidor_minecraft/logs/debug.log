@@ -6161,3 +6161,64 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [04Jan2025 02:41:31.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [04Jan2025 02:46:31.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Jan2025 02:46:31.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:49:27.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Bemjaja0
+[04Jan2025 02:51:31.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:51:31.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:55:21.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bemjaja0 lost connection: Timed out
+[04Jan2025 02:55:21.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 left the game
+[04Jan2025 02:56:31.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:56:31.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:56:39.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving the game (this may take a moment!)
+[04Jan2025 02:56:39.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:56:39.684] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:56:39.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saved the game
+[04Jan2025 02:56:42.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Jan2025 02:56:42.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2025 02:56:42.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2025 02:56:42.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2025 02:56:43.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jan2025 02:56:43.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:moon_orbit
+[04Jan2025 02:56:43.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:mars
+[04Jan2025 02:56:43.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:venus
+[04Jan2025 02:56:43.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:earth_orbit
+[04Jan2025 02:56:43.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jan2025 02:56:43.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:the_moon
+[04Jan2025 02:56:43.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jan2025 02:56:43.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/creatingspace:mars_orbit
+[04Jan2025 02:56:43.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[04Jan2025 02:56:43.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 02:56:43.250] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 02:56:43.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2025 02:56:43.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[04Jan2025 02:56:43.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[04Jan2025 02:56:43.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[04Jan2025 02:56:43.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[04Jan2025 02:56:43.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2025 02:56:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_moon): All chunks are saved
+[04Jan2025 02:56:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2025 02:56:43.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[04Jan2025 02:56:43.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[04Jan2025 02:56:43.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Jan2025 02:56:43.318] [Server thread/INFO] [WebDisplays/]: Miniserv server stopped
+[04Jan2025 02:56:43.319] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[04Jan2025 02:56:43.319] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[04Jan2025 02:56:44.500] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for creatingspace:moon_orbit
+[04Jan2025 02:56:44.501] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for creatingspace:moon_orbit
+[04Jan2025 02:56:44.501] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for creatingspace:mars
+[04Jan2025 02:56:44.501] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for creatingspace:mars
+[04Jan2025 02:56:44.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for creatingspace:venus
+[04Jan2025 02:56:44.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for creatingspace:venus
+[04Jan2025 02:56:44.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for creatingspace:earth_orbit
+[04Jan2025 02:56:44.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for creatingspace:earth_orbit
+[04Jan2025 02:56:44.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[04Jan2025 02:56:44.502] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[04Jan2025 02:56:44.503] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for creatingspace:the_moon
+[04Jan2025 02:56:44.503] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for creatingspace:the_moon
+[04Jan2025 02:56:44.503] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[04Jan2025 02:56:44.503] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[04Jan2025 02:56:44.853] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for creatingspace:mars_orbit
+[04Jan2025 02:56:44.853] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for creatingspace:mars_orbit
+[04Jan2025 02:56:44.853] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for ae2:spatial_storage
+[04Jan2025 02:56:44.853] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for ae2:spatial_storage
+[04Jan2025 02:56:44.880] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[04Jan2025 02:56:44.883] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
