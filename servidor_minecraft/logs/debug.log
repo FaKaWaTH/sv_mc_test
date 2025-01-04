@@ -5432,3 +5432,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [04Jan2025 00:32:34.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> esa cosa es del vanilla
 [04Jan2025 00:32:52.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> los weones me priorizan los mods
 [04Jan2025 00:33:03.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> compro mending o ahi noma
+[04Jan2025 00:34:13.667] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[04Jan2025 00:34:32.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt has made the advancement [Not Today, Thank You]
+[04Jan2025 00:34:34.931] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6284ms or 125 ticks behind
+[04Jan2025 00:35:01.589] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[04Jan2025 00:36:09.079] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 00:36:09.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Jan2025 00:37:29.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[04Jan2025 00:38:44.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt has made the advancement [Stone Age]
+[04Jan2025 00:39:47.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rezevt lost connection: Timed out
+[04Jan2025 00:39:47.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt left the game
+[04Jan2025 00:39:47.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 00:41:10.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Jan2025 00:41:11.017] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
