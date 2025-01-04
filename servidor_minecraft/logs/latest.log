@@ -379,3 +379,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [04Jan2025 01:49:03.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> dael
 [04Jan2025 01:49:31.006] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Jaimelitio lost connection: Timed out
 [04Jan2025 01:49:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jaimelitio left the game
+[04Jan2025 01:58:01.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There are 1 of a max of 20 players online: Bemjaja0
+[04Jan2025 02:02:26.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
+[04Jan2025 02:03:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 has made the advancement [Hot Stuff]
