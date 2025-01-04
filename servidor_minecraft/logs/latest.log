@@ -212,3 +212,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [04Jan2025 00:39:47.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rezevt lost connection: Timed out
 [04Jan2025 00:39:47.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt left the game
 [04Jan2025 00:39:47.289] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 00:46:36.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was fireballed by Ghast
+[04Jan2025 00:46:36.438] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: FaKaWaTH lost connection: Timed out
+[04Jan2025 00:46:36.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH left the game
+[04Jan2025 00:46:36.568] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Jan2025 00:46:37.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: FaKaWaTH[/[::1]:42540] logged in with entity id 20992 at (-99.15618666626054, 47.875, 420.69766992609016)
+[04Jan2025 00:46:38.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH joined the game
+[04Jan2025 00:46:40.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> u
+[04Jan2025 00:46:43.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> te ayudo?
+[04Jan2025 00:46:56.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> me vinieron a hablar weoon
+[04Jan2025 00:46:58.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> que rabia
+[04Jan2025 00:47:02.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> te apaño ono
+[04Jan2025 00:47:05.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> no
+[04Jan2025 00:47:10.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> boe
+[04Jan2025 00:47:14.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> perdi todo se quemo
+[04Jan2025 00:47:20.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> q paja
+[04Jan2025 00:49:49.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> filete no aparece ddonde mori
+[04Jan2025 00:49:53.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Bemjaja0[/[::1]:34198] logged in with entity id 22169 at (-190.62642219841757, 15.0, -57.10319111760653)
+[04Jan2025 00:49:53.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Bemjaja0 joined the game
+[04Jan2025 00:49:55.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> en vola
+[04Jan2025 00:50:00.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> donde te desconectaste
+[04Jan2025 00:50:00.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> ol
+[04Jan2025 00:50:03.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> y conectaste
+[04Jan2025 00:50:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> tenemo caida de pluma 4
+[04Jan2025 00:50:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> god
+[04Jan2025 00:52:43.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Piglin
