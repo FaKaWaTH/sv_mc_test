@@ -632,6 +632,7 @@
       "minecraft:vindicator": "2025-01-03 01:58:11 +0000",
       "minecraft:magma_cube": "2025-01-02 22:24:12 +0000",
       "minecraft:spider": "2025-01-01 18:45:47 +0000",
+      "minecraft:piglin_brute": "2025-01-04 00:30:01 +0000",
       "minecraft:creeper": "2025-01-01 19:27:16 +0000",
       "minecraft:slime": "2025-01-02 21:43:41 +0000",
       "minecraft:evoker": "2025-01-03 03:29:54 +0000",
@@ -5270,6 +5271,30 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-03 20:57:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-04 00:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-01-04 00:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-04 00:26:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-01-04 00:27:18 +0000"
     },
     "done": true
   },
