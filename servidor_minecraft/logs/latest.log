@@ -237,3 +237,87 @@ com.google.gson.JsonSyntaxException: Unknown item 'creatingspace:netherite_ingot
 [04Jan2025 00:50:32.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> tenemo caida de pluma 4
 [04Jan2025 00:50:37.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> god
 [04Jan2025 00:52:43.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Piglin
+[04Jan2025 00:55:25.964] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[04Jan2025 00:58:19.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> ahora prote iv a 38
+[04Jan2025 00:58:23.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> pero ya tenemo
+[04Jan2025 00:58:24.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> a 51
+[04Jan2025 00:59:07.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-78, y=16, z=9} BlockPos{x=-77, y=16, z=10}
+[04Jan2025 00:59:27.684] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-76, y=18, z=10} BlockPos{x=-75, y=18, z=9}
+[04Jan2025 00:59:31.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=20, z=12} BlockPos{x=-72, y=20, z=9}
+[04Jan2025 00:59:33.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-73, y=20, z=11} BlockPos{x=-72, y=20, z=12}
+[04Jan2025 01:00:09.883] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-70, y=16, z=32} BlockPos{x=-70, y=15, z=33}
+[04Jan2025 01:01:38.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> tenemo poder 5
+[04Jan2025 01:01:42.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> gooood
+[04Jan2025 01:03:23.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH tried to swim in lava to escape Bone Serpent
+[04Jan2025 01:03:31.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> serpiertes en la lava
+[04Jan2025 01:03:38.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> te ayudo
+[04Jan2025 01:03:40.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> y no dropean nada la cagas
+[04Jan2025 01:03:42.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> ?
+[04Jan2025 01:03:46.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> ayudar a que?
+[04Jan2025 01:03:54.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> te moriste en el nether ono
+[04Jan2025 01:03:58.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> sis
+[04Jan2025 01:04:03.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> y las cosas
+[04Jan2025 01:04:06.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> las perdi
+[04Jan2025 01:04:06.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> o cagaron en la lava
+[04Jan2025 01:04:08.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> a
+[04Jan2025 01:04:14.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> no tengo el pto de muerte
+[04Jan2025 01:05:42.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> ahora hay 6 flecheros
+[04Jan2025 01:07:17.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> wb
+[04Jan2025 01:07:31.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> mi wea de vulpus habia desaparecido
+[04Jan2025 01:08:13.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=106, z=31} BlockPos{x=-156, y=105, z=31}
+[04Jan2025 01:08:58.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/195, l='ServerLevel[world]', x=-193.30, y=115.00, z=49.39] died, message: 'Villager was slain by Jaimelitio'
+[04Jan2025 01:09:05.381] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=119, z=40} BlockPos{x=-188, y=118, z=40}
+[04Jan2025 01:09:05.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=119, z=40} BlockPos{x=-188, y=118, z=40}
+[04Jan2025 01:11:19.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> sv qlo malo que hice
+[04Jan2025 01:16:04.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=109, z=31} BlockPos{x=-156, y=110, z=31}
+[04Jan2025 01:16:04.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=109, z=31} BlockPos{x=-156, y=110, z=31}
+[04Jan2025 01:16:04.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=109, z=31} BlockPos{x=-156, y=110, z=31}
+[04Jan2025 01:16:04.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=109, z=31} BlockPos{x=-156, y=110, z=31}
+[04Jan2025 01:16:04.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-155, y=109, z=31} BlockPos{x=-156, y=110, z=31}
+[04Jan2025 01:16:22.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=109, z=33} BlockPos{x=-155, y=110, z=32}
+[04Jan2025 01:16:22.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-156, y=109, z=33} BlockPos{x=-155, y=110, z=32}
+[04Jan2025 01:18:07.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> voy a buscar ender pers pa ir a matar al dragon pa que muero luego el sv
+[04Jan2025 01:18:15.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> by
+[04Jan2025 01:18:20.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> buu
+[04Jan2025 01:18:43.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> dame un libro de looting
+[04Jan2025 01:18:53.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> no tengo
+[04Jan2025 01:18:58.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> dame dame
+[04Jan2025 01:20:46.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> ahora tengo
+[04Jan2025 01:20:55.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> me lo encantas
+[04Jan2025 01:20:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> ?
+[04Jan2025 01:21:00.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> no tengo plata
+[04Jan2025 01:21:06.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <FaKaWaTH> 6 de wea son
+[04Jan2025 01:21:10.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> toy pobre
+[04Jan2025 01:21:14.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> me robo el negro
+[04Jan2025 01:23:33.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: FaKaWaTH was slain by Crimson Mosquito
+[04Jan2025 01:23:39.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> dasdas
+[04Jan2025 01:26:32.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> madera
+[04Jan2025 01:26:37.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> q
+[04Jan2025 01:26:43.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> teni el coso pa mejorar a netherita
+[04Jan2025 01:26:46.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> pa duplicarlo
+[04Jan2025 01:26:48.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> pa vo no
+[04Jan2025 01:26:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> listo weon
+[04Jan2025 01:27:04.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> iba a compartir
+[04Jan2025 01:27:05.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> ven pa aca
+[04Jan2025 01:27:07.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> aweona
+[04Jan2025 01:27:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> o
+[04Jan2025 01:29:05.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04Jan2025 01:29:13.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Rezevt[/[::1]:38412] logged in with entity id 80202 at (-534.7358512654022, 112.0, -86.43816165414405)
+[04Jan2025 01:29:13.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt joined the game
+[04Jan2025 01:29:17.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2599ms or 51 ticks behind
+[04Jan2025 01:29:19.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> ol
+[04Jan2025 01:29:24.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rezevt> ol
+[04Jan2025 01:30:14.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> me pitié 120 diamantes
+[04Jan2025 01:30:18.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> haciendo esta wea
+[04Jan2025 01:30:22.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> ah ya
+[04Jan2025 01:30:25.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> tengo 18 mejoras
+[04Jan2025 01:30:34.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Rezevt> y todo mi hierro weon al parecer
+[04Jan2025 01:30:37.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> JKDSFLKAJF
+[04Jan2025 01:30:43.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Bemjaja0> faltab a hierro
+[04Jan2025 01:30:50.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> ooo peruano culiao
+[04Jan2025 01:30:54.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> dame la efi 5 y dejo de wearte
+[04Jan2025 01:31:09.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Jaimelitio> o 4 por ultimo
+[04Jan2025 01:31:31.631] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/193, l='ServerLevel[world]', x=-176.67, y=102.00, z=38.30] died, message: 'Villager was slain by Jaimelitio'
+[04Jan2025 01:33:11.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rezevt has made the advancement [Acquire Hardware]
+[04Jan2025 01:33:34.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=40, z=482} BlockPos{x=118, y=39, z=483}
+[04Jan2025 01:33:49.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/196, l='ServerLevel[world]', x=-147.37, y=105.18, z=56.77] died, message: 'Villager was slain by Jaimelitio'
